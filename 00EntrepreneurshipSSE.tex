@@ -1,0 +1,218 @@
+\documentclass[11pt,fleqn]{book}
+
+\usepackage{shorttoc}
+\usepackage{makeidx,natbib,vmargin,setspace}
+\usepackage{tabu}
+\usepackage{color}
+\usepackage{framed}
+\usepackage{amsfonts}
+\usepackage{amssymb, amsthm}
+\usepackage[T1]{fontenc}
+\usepackage[colorlinks=true, pdfstartview=FitV, citecolor=blue!50!black, linkcolor=red!30!black]{hyperref}
+\usepackage{graphicx,graphics,tikz}
+\usepackage{microtype}
+\usepackage{eqnarray}
+\usepackage{rotating}
+\usepackage{booktabs}
+\usepackage{setspace}
+\usepackage{dcolumn}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{thmtools}
+\usepackage[section]{placeins}
+
+\restylefloat{table}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\fancyhf{}
+\fancyhead[LE,RO]{\bfseries\thepage}
+\fancyhead[LO]{\bfseries\rightmark}
+\fancyhead[RE]{\bfseries\leftmark}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+\addtolength{\headheight}{0.5pt}
+\setlength{\footskip}{0in}
+\renewcommand{\footruleskip}{0pt}
+\fancypagestyle{plain}{%
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+}
+\parskip 0.05in
+
+\usepackage{appendix}
+\usepackage{chngcntr}
+\usepackage{etoolbox}
+
+\AtBeginEnvironment{subappendices}{%
+\chapter*{Appendix for Chapter~\thechapter}
+\addcontentsline{toc}{chapter}{Appendices}
+\counterwithin{figure}{section}
+\counterwithin{table}{section}
+}
+
+\DeclarePairedDelimiter\abs{\lvert}{\rvert}
+\DeclarePairedDelimiter\norm{\lVert}{\rVert}
+
+\makeatletter
+
+\let\oldabs\abs
+\def\abs{\@ifstar{\oldabs}{\oldabs*}}
+
+\let\oldnorm\norm
+\def\norm{\@ifstar{\oldnorm}{\oldnorm*}}
+\makeatother
+
+
+\newcounter{llst}
+\newenvironment{abet}{\begin{list}{\rm (\alph{llst})}{\usecounter{llst}
+\setlength{\itemindent}{0em} \setlength{\leftmargin}{3em}
+\setlength{\labelwidth}{2em} \setlength{\labelsep}{1em}}}{\end{list}}
+\newenvironment{numm}{\begin{list}{\rm (\roman{llst})}{\usecounter{llst}
+\setlength{\itemindent}{0em} \setlength{\leftmargin}{3.5em}
+\setlength{\labelwidth}{2.5em} \setlength{\labelsep}{1em}}}{\end{list}}
+
+\renewcommand{\baselinestretch}{1.25}
+
+\newtheorem{thm}{Theorem}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{acknowledgement}[theorem]{Acknowledgement}
+\newtheorem{algorithm}[theorem]{Algorithm}
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{case}[theorem]{Case}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{conclusion}[theorem]{Conclusion}
+\newtheorem{condition}[theorem]{Condition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{criterion}[theorem]{Criterion}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{expl}[theorem]{Example}
+\newtheorem{exercise}[theorem]{Exercise}
+\newtheorem{hypothesis}[theorem]{Hypothesis}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{notation}[theorem]{Notation}
+\newtheorem{problem}[theorem]{Problem}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{property}[theorem]{Properties}
+\newtheorem{rmrk}[theorem]{Remark}
+\newtheorem{solution}[theorem]{Solution}
+\newtheorem{summary}[theorem]{Summary}
+\newenvironment{proof}[1][Proof]{\noindent \textbf{#1.} }{\hfill
+\rule{0.5em}{0.5em}}
+
+\newenvironment{example}{\begin{expl} \rm}{\hfill $\blacklozenge$ \end{expl}}{}
+\newenvironment{remark}{\begin{rmrk} \rm}{\hfill $\blacklozenge$ \end{rmrk}}{}
+
+\counterwithin{figure}{section}
+% \counterwithin{table}{section}
+
+\makeindex
+
+\begin{document}
+
+\pagenumbering{roman}
+\begin{titlepage}
+    \begin{center}
+        \vspace*{1cm}
+
+        \huge
+        \textbf{Entrepreneurship and Wealth Generation in Socially Structured Economies}
+
+        \vspace{1.5cm}
+
+        \Large
+        \textbf{Owen Sims}
+
+        \vfill
+
+        \large
+        A thesis presented for the degree of\\
+        Doctor of Philosophy
+
+        \vspace{0.8cm}
+
+        \includegraphics[width=0.15\textwidth]{Images/qublogo2.png}
+
+        \large
+        Queen's Management School\\
+        Queen's University Belfast\\
+        \today
+
+    \end{center}
+\end{titlepage}
+
+\vspace*{\stretch{3}}
+
+\thispagestyle{empty}
+
+\newpage
+
+\chapter*{Acknowledgements}
+
+The research presented in this monograph has been financially supported by the Department of Employment and Learning Northern Ireland. I gratefully acknowledge and appreciate this financial support and also the possibilities to participate in presentations and conferences that Queen's University Belfast have given me.
+
+This research would not have been possible without the help of many people. My sincerest thanks go to my supervisor Robert Gilles whose innovative research and love for the discipline inspired me throughout the process. He has given me much guidance and encouragement as both a mentor and friend throughout the years. Thank you for giving me the liberty to pursue this somewhat unconventional research. I hope that we continue to develop the theories illustrated in this monograph and the many other ideas discussed over the years. To this I would also like to thank my secondary PhD supervisor, Graham Brownlow, who, since I began as a young University student at Queen's, has given me much support, advice and laughter.
+
+I conducted this research at the Economics department of Queen's Management School. I am thankful for all the many beneficial and encouraging discussions with members of our group over the course of this PhD process. In particular, John Turner, my Head of School has given me continual encouragement and enlightening discussions since beginning the research. Our conversations have broadened my intellectual horizons and his research has introduced me to new academic interests, which I still find fascinating. Several other scholars and colleges have provided me fruitful conversations and valuable feedback on my research. In particular, I thank Chris Colvin, Subhadip Chakribarti, Rajnish Kumar, Anthony Zeigelmeir, Duncan McVicar, Arcangelo Dimico, Mariann Liguori, Sergey Popov, Alan de Bromhead, Alan Fernihough, Ren\'e van den Brink, Arnold Polanski, and Frank Page Jr. Also, to my fellow PhD students; each of which have brought me friendship and sanity over this time. Thank you all.
+
+Finally, I wish to send my thanks and love to my parents for putting up with me and continually pressuring me to finish writing this dissertation.
+
+\newpage
+\mbox{}
+\thispagestyle{empty}
+\newpage
+
+\setcounter{page}{1} \pagenumbering{roman}
+
+\begin{singlespace}
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\listoffigures
+
+\chapter*{Abstract}
+
+\addcontentsline{toc}{chapter}{Abstract}
+
+Academic economists and economic practitioners have recognised the need for a pragmatic reform of the economics discipline, particularly since the impact of the 2008 global financial crisis \citep{Hodgson2009}. Many also recognise the requirement for a cohesive perspective on issues regarding the entrepreneur and entrepreneurship within both a micro- and macroeconomic framework. This monograph addresses---and contributes a potential resolve to---both issues. In doing so we provide an insight into the methodological basis of a \emph{relational perspective} of social and economic activity through the structure and evolution of the social division of labour, which is propagated by the actions of entrepreneurs. The relational perspective allows us to model socially structured economies. Of specific interest is the emergence of new specialisations, the modification of institutions, the generation of wealth, and the exploitation of positional power by entrepreneurial agents.
+
+Theoretical development of the relational perspective is founded on a number of axioms and hypotheses derived from observations in economics, sociology, psychology, and evolutionary anthropology. From this we formally elaborate on the inherent sociality of the individual economic agent and production possibilities that are subjected to increasing returns to specialisation. The structure of each individuals' production set facilitates the specialisation into a set of professions, or socio-economic roles, that become embedded within the institutional fabric of society. Networked interaction infrastructures form as a consequence of the social and economic interaction between economic agents.
+
+The formation of interaction infrastructures lead to an uneven distribution of positional power within the matrix of relationships. Unique positional attributes of economic agents are reflected in entrepreneurial action and the exploitation of power in connecting, and potentially disconnecting, otherwise unconnected agents and communities. We investigate entrepreneurship in this way---through an institutional and topological perspective. Specifically, entrepreneurship motivates the evolution of the division of labour through the formation of new socio-economic roles; this, in turn, suggests an alteration of networked institutional infrastructure and the formation of unique positions occupied by entrepreneurs.
+
+Throughout the monograph we justify the claim that entrepreneurs can be represented as middlemen within a network-institutional perspective of economic activity. This is investigated further in both a philosophical and formal manner. We develop a set of statistical tools to investigate the positional power of middlemen and apply the resulting measures to situations of disruptive entrepreneurial activity\footnote{Code for statistical tools and simulations developed in this monograph can be found at the dedicated Github repository:~\href{https://github.com/OwenSims/EntrepreneurshipSSE}{https://github.com/OwenSims/EntrepreneurshipSSE}.}. Empirical applications include the marriage network of Renaissance Florence, 9/11 terrorists, and the interlocking directorate network of New York City during the early Twentieth century. By providing a new perspective and analytics this empirical assessment gives a new insight into cases within economic history.
+
+\end{singlespace}
+
+\newpage
+\mbox{}
+\thispagestyle{empty}
+\newpage
+
+\include{01Introduction}
+\include{Part1}
+\include{02TowardARelationalPerspective}
+\include{03GrowthDevelopmentSocioEconomicSpace}
+\include{04Entrepreneurship}
+\include{Part2}
+\include{05MiddlemenAsEntrepreneurs}
+\include{06BlockFormation}
+\include{Part3}
+\include{07ControlInHypergraphs}
+\include{08NYCControl}
+
+\singlespace
+
+\addcontentsline{toc}{chapter}{Bibliography}
+
+\bibliographystyle{agsm}
+\bibliography{OSDB}
+
+% \listoftheorems[ignoreall,show={theorem}]
+
+\end{document}
