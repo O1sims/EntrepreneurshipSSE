@@ -1,21 +1,9 @@
-\documentclass[10pt]{beamer}
-%\documentclass{article}
+\documentclass[9pt]{beamer}
 
-\usepackage{amssymb,amsmath,fleqn}
-\usepackage{xcolor}
-
-%\usepackage{beamerarticle}
-
-%\mode<presentation> {
-%  \usetheme{Dresden}
-%  \usecolortheme[overlystylish]{albatross}
-%  \setbeamercovered{transparent}
-%  \usefonttheme{structuresmallcapsserif}
-%}
-
+\usepackage{amssymb, amsmath, fleqn}
+\usepackage{graphicx, graphics, tikz}
+\usepackage{color}
 \usepackage{tabu}
-
-\usepackage{graphicx,graphics,tikz}
 
 \newtheorem{thm}{Theorem}
 \newtheorem{acknowledgement}[thm]{Acknowledgement}
@@ -27,11 +15,7 @@
 \newtheorem{rmrk}[thm]{Remark}
 \newtheorem{summary}[thm]{Summary}
 
-
-% New definition of square root:
-% it renames \sqrt as \oldsqrt
 \let\oldsqrt\sqrt
-% it defines the new \sqrt in terms of the old one
 \def\sqrt{\mathpalette\DHLhksqrt}
 \def\DHLhksqrt#1#2{%
 \setbox0=\hbox{$#1\oldsqrt{#2\,}$}\dimen0=\ht0
@@ -48,9 +32,7 @@
     \setbeamertemplate{navigation symbols}{} %gets rid of navigation symbols
     \setbeamertemplate{caption}[numbered]
     \setbeamertemplate{blocks}[rounded][shadow=true]
-    \setcounter{tocdepth}{1}
-
-%customize colors and tell Beamer to use them
+    \setcounter{tocdepth}{2}
 
     \definecolor{VTMaroon}{RGB}{0,0,50}
     \definecolor{VTOrange}{RGB}{0,0,70}
@@ -99,27 +81,11 @@
 \setlength{\itemindent}{0em} \setlength{\leftmargin}{3.5em}
 \setlength{\labelwidth}{2.5em} \setlength{\labelsep}{1em}}}{\end{list}}
 
-\AtBeginSection[]
-{
-  \begin{frame}
-    \frametitle{Table of contents}
-    \tableofcontents[currentsection]
-  \end{frame}
-}
-
-\title[Entrepreneurship]
-{\color{yellow}{Entrepreneurship and Wealth-Generation in Socially Structured Economies}}
+\title[EntrepreneurshipSSE]{\textcolor{yellow}{Entrepreneurship and Wealth-Generation in Socially Structured Economies}}
 \subtitle{An Overview}
-\author[Sims]
-{Owen~Sims\inst{1}}
-\institute[QUB]
-{
-  \inst{1}%
-  Center for Data Science\\
-  Queen's University Belfast
-}
-\date[APR 2016]
-{Annual Progress Review, September 2016}
+\author[Sims]{Owen~Sims}
+\institute[QUB]{Center for Data Science and Scalable Computing\\ Queen's University Belfast}
+\date[APR 2016]{Annual Progress Review, September 2016}
 
 \begin{document}
 
@@ -127,13 +93,16 @@
 \titlepage
 \end{frame}
 
-\setcounter{tocdepth}{2}
-
 \section{Overview of dissertation}
 
 \begin{frame}
 \frametitle{Table of contents}
 \tableofcontents
+\end{frame}
+
+\begin{frame}
+\frametitle{Table of contents}
+\tableofcontents[currentsection]
 \end{frame}
 
 \subsection{Introduction}
@@ -149,12 +118,12 @@
 \medskip
 \item Unique positions are \emph{uncontested} and can be exploitive.
 \medskip
-\item However, they are also wealth-generating actions and positions faciliating deeper divisions of labour and the connection of communities that would otherwise be disconnected.
+\item However, they are also wealth-generating actions and positions facilitating deeper divisions of labour and the connection of communities that would otherwise be disconnected.
 \end{itemize}
 \end{itemize}
 \end{frame}
 
-\subsection{Ain and objectives}
+\subsection{Aim and objectives}
 
 \begin{frame} \frametitle{Aim and objectives}
 \begin{itemize}
@@ -194,6 +163,11 @@
 
 \section{Developing a theory of entrepreneurship}
 
+\begin{frame}
+\frametitle{Table of contents}
+\tableofcontents[currentsection]
+\end{frame}
+
 \subsection{Overview of Part I}
 
 \begin{frame} \frametitle{Part I overview}
@@ -218,7 +192,7 @@
 
 \begin{frame} \frametitle{Chapter 2: Toward a relational perspective}
 \begin{itemize}
-\item The relational perspective is developed using an axoimatic method: this chapter discusses these underlying modelling axioms and hypotheses.
+\item Relational perspective is developed using an axiomatic method: this chapter discusses these underlying modelling axioms and hypotheses.
 \begin{itemize}
 \medskip
 \item[\textbf{Axiom I.}] Bounded rationality: Limited cognitive abilities to compute the consequences of their own and others actions. This
@@ -227,9 +201,11 @@ results into fundamental perceived uncertainty in the economy.
 \item[\textbf{Axiom II.}] Harmonisation of production and consumption: Economic agents are bearers of consumptive needs as well as productive abilities.
 \end{itemize}
 \medskip
-\item Fundamental notions are derived from the basis that the axioms provide. These include: (1) Economic agents as consumer-producers; (2) Socio-economic roles and specialisations; (3) Embeddedness, governance systems, and institutions; and (4) Interaction infrastructures as networks.
+\item Fundamental notions are derived from these axioms. 
 \medskip
-\item Socio-economic roles play an important part when discussing the economic interaction, social division of labour, and the impact of entrepreneurship.
+\item These include: (1) Economic agents as consumer-producers; (2) Socio-economic roles and specialisations; (3) Embeddedness, governance systems, and institutions; and (4) Interaction infrastructures as networks.
+% \medskip
+% \item Socio-economic roles play an important part when discussing the economic interaction, social division of labour, and the impact of entrepreneurship.
 \end{itemize}
 \end{frame}
 
@@ -241,7 +217,7 @@ results into fundamental perceived uncertainty in the economy.
 \item The production sets can be seen diagrammatically below.
 % Insert visuals of production sets.
 \medskip
-\item The assumption of strict IRS leads to the theorem that given a population of more than 1 economic agents and no transaction costs, each agent always has an incentive to specialise.
+\item The assumption of strict IRS leads to the theorem that given a population of $> 1$ economic agents and no transaction costs, each agent always has an incentive to specialise.
 \end{itemize}
 \end{frame}
 
@@ -251,9 +227,10 @@ results into fundamental perceived uncertainty in the economy.
 \item To engage in functional wealth-generating interaction each agent adopts a specialisation and with it a socio-economic role.
 \medskip
 \item A socio-economic role expresses an agents \emph{embeddedness} in a well-defined governance system.
+\medskip
 \begin{figure}[h]
 \begin{center}
-\begin{tikzpicture}[scale=0.5]
+\begin{tikzpicture}[scale=0.25]
 \draw (0,0) -- (20,0);
 \draw (20,0) node[minimum size=2em,circle,fill=green!20] {$\Lambda$};
 \draw (0,0) node[minimum size=2em,circle,fill=red!20] {$i$};
@@ -269,9 +246,12 @@ results into fundamental perceived uncertainty in the economy.
 
 \begin{frame} %\frametitle{}
 \begin{itemize}
+\item The fundamental problem of the Core needs to be resolved through the use of institutional mechanisms.
+\end{itemize}
+\medskip
 \begin{figure}[h]
 \begin{center}
-\begin{tikzpicture}[scale=0.5]
+\begin{tikzpicture}[scale=0.25]
 \draw (0,17) -- (10,0.5) -- (20,17) -- (0,17);
 \draw (10,0.5) -- (10,17);
 \draw (0,17) -- (15,8.5);
@@ -287,8 +267,9 @@ results into fundamental perceived uncertainty in the economy.
 \end{tikzpicture}
 \end{center}
 \end{figure}
+\begin{itemize}
 \medskip
-\item A socio-economic role is a reflection of the governance system ($\Lambda$) that an agent exists within: includes behavioural rules, cultural norms, media that are associated with specialisations.
+\item Economic agents are considered as \emph{centrifugal} forces and the governance system as a \emph{centripetal} force.
 \end{itemize}
 \end{frame}
 
