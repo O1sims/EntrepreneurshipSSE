@@ -84,8 +84,8 @@
 \title[EntrepreneurshipSSE]{\textcolor{yellow}{Entrepreneurship and Wealth-Generation in Socially Structured Economies}}
 \subtitle{An Overview}
 \author[Sims]{Owen~Sims}
-\institute[QUB]{Center for Data Science and Scalable Computing\\ Queen's University Belfast}
-\date[APR 2016]{QMS Annual Progress Review, September 2016}
+\institute[QUB]{Centre for Data Science and Scalable Computing\\ Queen's University Belfast}
+\date[APR 2016]{QMS Economic Theory Seminar, November 2016}
 
 \begin{document}
 
@@ -115,22 +115,22 @@
 ---Hendrik Houthakker (1956, p. 182)
 \end{flushright}
 \begin{quotation}
-``Static models provided by traditional equilibrium theory do nothing to explain the most central concept in economic development: the entrepreneur.''
+``Static models provided by neoclassical equilibrium theory do nothing to explain the most central concept in economic development: the entrepreneur.''
 \end{quotation}
 \begin{flushright}
 ---Coase and Wang  (2012, p. 1)
 \end{flushright}
 \begin{itemize}
 \medskip
-\item We present theoretical and empirical considerations in the field of entrepreneurship by investigating the interaction between \emph{institutions}, \emph{networks} and the \emph{social division of labour}.
+\item We present theoretical and empirical considerations in the field of entrepreneurship by investigating the interaction between \emph{institutions}, \emph{socio-economic networks} and the \emph{social division of labour}.
 \medskip
 \end{itemize}
 \end{frame}
 
 
-\begin{frame} \frametitle{Fundamental idea}
+\begin{frame} \frametitle{Fundamental thesis}
 \begin{itemize}
-\item The act of entrepreneurship is expressed through a crucial development of the social division of labour. 
+\item The act of entrepreneurship is expressed through a crucial development of the social division of labour.
 \medskip
 \item This is reflected in a major modification of institutional environments and networked interaction infrastructures.
 \medskip
@@ -158,22 +158,92 @@
 \item[\textbf{Part III.}] Investigates entrepreneurial activity and positional power in with more complex interaction structures and a vertical division of labour.
 \end{itemize}
 \medskip
-\item Throughout we complement theory with empirical examples; this includes the analysis of elite Florentine families and the directorate network of New York City during the early Twentieth Century.
+\item Throughout we complement theory with empirical examples, including:
+\begin{itemize}
+\item[a.] The network of elite Florentine families; and
+\medskip
+\item[b.] The evolving directorate network of New York City during the early Twentieth Century.
+\end{itemize}
 \end{itemize}
 \end{frame}
 
-
-\begin{frame} \frametitle{Current status}
+\begin{frame} \frametitle{Aim and objectives}
 \begin{itemize}
-\item Submitted: \textbf{Thursday 8th September 2016}.
+\item \textbf{Aim:} To develop a theory of entrepreneurship and the entrepreneurial function within network-institutional economies.
 \medskip
-\item Viva date has been confirmed with internal and external examiners and has been booked for \textbf{Thursday 24th November 2016}.
+\item This aim is realised through four objectives:
+\begin{itemize}
 \medskip
-\item Dissertation with associated files, code, data and presentations (including this) can be forked from the dedicated Github repository: \href{https://github.com/OwenSims/EntrepreneurshipSSE}{https://github.com/OwenSims/EntrepreneurshipSSE}.
+\item[1.] Develop a model of economic activity based on a population of specialised economic agents that form a functional social division of labour.
 \medskip
-\item Two chapters---\emph{Middlemen as entrepreneurs} and \emph{The formation of extractive structures in networks}---have been transformed into papers and were well-received in conferences.
+\item[2.] Illustrate the role of the entrepreneur within the relational perspective and highlight the impact that entrepreneurship has on the evolution
 \medskip
-\item Tools developed within the monograph to analyse power in topological environments have been integrated into open source statistical packages in R (\emph{networkR}) and Python (\emph{iGraph}).
+\item[3.] Provide a distinction between the act of entrepreneurship and the entrepreneurial function of the economy.
+\medskip
+\item[4.] Complement our theoretical discussion of the relational perspective and entrepreneurship with empirical analyses of entrepreneurial activities. This involves creating a set of tools that allows us to analyse data in a pragmatic way.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame} \frametitle{Related literature}
+\begin{itemize}
+\item The thesis draws from three main strands of economic literature.
+\medskip
+\item[1.] On the (social) division of labour:
+\begin{itemize}
+\medskip
+\item Like Ricardo (1817), Plato (c. 427--347BC) and Xenophon (c. 430--354BC) claim that the division of labour emerges from heterogeneities in agents abilities (Silvermintz, 2010). Their discussions of the city appeals to a \emph{horizontal division of labour}.
+\medskip
+\item Hume (1739, 1740), Turgot (1774) and Smith (1776) suggest that a social division of labour can emerge even in an economy of equals. Insights contribute to the \emph{vertical division of labour}.
+\medskip
+\item Young (1928), von Hayek (1945), Stigler (1951, 1976), Becker (1985), and Yang (1988, 2001, 2003) provide the most recent insights; concentrating on the modelling of increasing returns to specialisation, the depth of the division of labour, and the \emph{Smith-Young Theorem}.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\begin{itemize}
+\item[2.] On entrepreneurship and institutions:
+\begin{itemize}
+\medskip
+\item Knight (1921, 1935) the notions of entrepreneurship and supernormal profit do not coincide with conventional equilibrium theory. Requires activity out of equilibrium.
+\medskip
+\item Schumpeter (1912, 1934, 1942) suggests that the entrepreneur forces a dramatic deviation from equilibrium through the distribution of innovative product and/or processes.
+\medskip
+\item Baumol (1990) claims that entrepreneurial incentives regarding rent-seeking versus profit-generating activities depend on the institutions of the economy.
+\medskip
+\item Mainly building on Buchanan (1980) and Acemoglu (1995), Henrekson and Sanandaji (2011) investigate how entrepreneurs abide by, evade, or alter their institutional environment.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.35]{../Images/networkbridge.png}
+\end{figure}
+\begin{itemize}
+\item From mathematical sociology, Burt (1992, 2005, 2010, 2014) suggests that entrepreneurial agents are those that have superior social capital in that they have access to more diverse sources of information.
+\medskip
+\item Entrepreneurs hold local and/or global bridge relations that connect communities that would otherwise be disconnected. Their social position provides them sources of diverse information they can exploit for economic benefits (Granovetter, 1972; 1985; 2005)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\begin{itemize}
+\item[3.] Algorithmic and strategic generation of socio-economic networks:
+\begin{itemize}
+\medskip
+\item Watts and Strogatz (1998), Watts et al. (1999), Barabasi (1999; 2000), and Jackson and Rogers (2007) provide models for the algorithmic generation of small-world and scale-free networks.
+\medskip
+\item Jackson and Wolinsky (1996) define the \emph{pairwise stability} concept of network formation based on consent between agents.
+\medskip
+\item Corominas-Bosch (1999, 2004) and Polanski (2007) discuss models of bilateral bargaining and trade between a set of producers and consumers in a bipartite graph.
+\medskip
+\item Blume et al. (2009) and Gilles and Diamantaris (2013) extend these models with the introduction of \emph{traders} that broker economic relationships between producers and consumers.
+\end{itemize}
+\medskip
+\item We combine these strands of literature in developing a \emph{relational perspective} of social and economic activity.
 \end{itemize}
 \end{frame}
 
@@ -195,7 +265,7 @@
 \medskip
 \item[1.] Formal definition of \emph{socially structured economies} given a relational perspective of social and economic activity.
 \medskip
-\item[2.] Development of consumer-producers, socio-economic roles and the social division of labour.
+\item[2.] Development of consumer-producers, socio-economic roles, and the social division of labour.
 \medskip
 \item[3.] Clarity regarding the definition and impact of entrepreneurship and the entrepreneurial function within this framework.
 \end{itemize}
@@ -208,36 +278,90 @@
 
 \begin{frame} \frametitle{Chapter 1: Toward a relational perspective}
 \begin{itemize}
-\item This chapter provides and debates the fundamental modelling axioms and hypotheses required to develop the relational perspective.
+\item This chapter debates the fundamental modelling axioms and hypotheses required to develop the relational perspective.
 \begin{itemize}
 \medskip
 \item[\textbf{Axiom I.}] \textbf{Bounded rationality:} Limited cognitive abilities to compute the consequences of their own and others actions. This results into fundamental perceived uncertainty in the economy.
 \medskip
 \item[\textbf{Axiom II.}] \textbf{Harmonisation of production and consumption:} Economic agents are bearers of consumptive needs as well as productive abilities.
+\medskip
+\item[\textbf{Axiom III.}] \textbf{Homogenous agents:} Throughout we assume that agents are identical with respect to production and utility functions.
 \end{itemize}
 \medskip
 \item The following notions are derived from these axioms: (1) Economic agents as consumer-producers; (2) Socio-economic roles and specialisations; (3) Embeddedness, governance systems, and institutions; and (4) Interaction infrastructures as networks.
 \end{itemize}
 \end{frame}
 
+\begin{frame} \frametitle{Modelling consumer-producers}
+\begin{itemize}
+\item Every economic agent $i \in N$ is a \emph{consumer-producer} represented by the tuple $(u_{i}, \mathcal{P}_{i})$, where $u_{i}$ refers to the \emph{utility function} of agent $i$ and $\mathcal{P}_{i}$ refers to the \emph{production abilities} of $i$.
+\medskip
+\item Let there be $\ell \geqslant 2$ economic goods such that each good is denoted by $k$. $x_{k} \geqslant 0$ is the quantity of economic good $k$ consumed.
+\medskip
+\item Consumption space: 
+\begin{equation*}
+\mathcal{C} = \mathbb{R}^{\ell}_{+} \equiv \left\{ x = (x_{1}, \ldots, x_{\ell}) \mid x_{k} \geqslant 0 \mbox{~for all~} k = 1, \ldots, \ell \right\}~.
+\end{equation*}
+\item Throughout we use a \emph{Stone-Geary} utility function when modelling consumer-producers, which takes the form:
+\begin{equation*}
+u \left(x_{1}, \ldots, x_{\ell} \right) = \prod_{k=1}^{\ell} \left( x_{k} + \gamma_{k} \right)^{\alpha_{k}}~,
+\end{equation*}
+where $\gamma_{k}, \alpha_{k} > 0$.
+\end{itemize}
+\end{frame}
 
 \begin{frame}
 \begin{itemize}
-\item Economic agents are assumed to be identical and possess both consumption and production functions consisting of increasing returns to specialisation over the set of produceable economic goods.
+\item Every economic agent $i \in N$ is endowed with an individual production set $\mathcal{P}_{i} \subset \mathcal{C}$ representing the agent’s productive abilities such that the following properties hold:
+\medskip
+\begin{itemize}
+\item[1.] For agent $i$ the production set $\mathcal{P}_{i}$ is represented using an individual production function $F_{i} : \mathcal{C} \rightarrow \mathbb{R}$, which is strictly monotone, and a parameter $W_{i} > F_{i}(0)$ with
+\begin{equation*}
+\mathcal{P}_{i} = \left\{x \in \mathcal{C} \mid F_{i}(x) \leqslant W_{i} \right\}~.
+\end{equation*}
+\medskip
+Therefore, for every agent $i \in N$, the individual production set $\mathcal{P}_{i}$ is assumed to be a compact set with $0 \in \mathcal{P}_{i}$.
+\medskip
+\item[2.] The production set $\mathcal{P}_{i}$ is subject to weakly increasing returns to scale represented by the property that the production function $F_{i}$ is weakly quasi-concave in the sense that
+\begin{equation*}
+F_{i}(x) \leqslant F_{i}(y) \leqslant W_{i} \mbox{~implies that~} F_{i} \left( \lambda x + (1 - \lambda) y \right) \geqslant F_{i}(x)~,
+\end{equation*}
+\medskip
+for all $x, y \in \mathcal{C}$ and $0 \leqslant \lambda \leqslant 1$.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\begin{itemize}
+\item[]
+\begin{itemize}
+\item[3.] Finally, the production set $\mathcal{P}_{i}$ reflects increasing returns to specialisation, represented by the property that for all bundles $x,y \in \mathcal{C}$ and every $0 < \lambda < 1$ :
+\begin{align*}
+F_{i}(x) = F_{i}(y) = W_{i} &\mbox{ with } x \in \partial \mathcal{C} \mbox{ and } y \gg 0 \\
+&\mbox{ implies that } F_{i}( \lambda x + (1 - \lambda) y) > W_{i}
+\end{align*}
+where $\partial \mathcal{C} = \left\{ x \in \mathcal{C} ~ | ~ x_{k} = 0 \mbox{ for at least some } k \right\}$ is the boundary of the consumption space $\mathcal{C}$.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\begin{itemize}
+\item A distinction is made between weak increasing returns to specialisation (WIRS) and strict increasing returns to specialisation (SIRS).
 \end{itemize}
 \begin{figure}[h]
 \centering
 \includegraphics[scale=0.135]{../Images/IRS.png}
 \end{figure}
 \begin{itemize}
-\item The assumption of strict IRS leads to the theorem that, given a population of $> 1$ economic agents and no interaction inefficienies, each agent always has an incentive to specialise.
+\item The hypothesis of SIRS leads to the theorem that, given a population of $> 1$ economic agents and no interaction inefficienies, each agent always has an incentive to specialise.
 \end{itemize}
 \end{frame}
 
-
 \begin{frame}
 \begin{itemize}
-\item To engage in functional wealth-generating interaction each agent adopts a specialisation and with it a socio-economic role.
+\item To engage in functional wealth-generating interaction each agent adopts a specialisation and with it a \emph{socio-economic role}.
 \medskip
 \item A socio-economic role expresses an agents \emph{embeddedness} in a well-defined governance system.
 \medskip
@@ -252,7 +376,7 @@
 \end{center}
 \end{figure}
 \medskip
-\item A socio-economic role is a reflection of the governance system ($\Lambda$) that an agent exists within. 
+\item A socio-economic role is a reflection of the governance system ($\Lambda$) that an agent exists within.
 \begin{itemize}
 \medskip
 \item Includes behavioural rules, cultural norms, media that are associated with specialisations.
@@ -261,7 +385,6 @@
 \item Economic agents adopt a socio-economic role through either \emph{adaptive specialisation} or \emph{objective specialisation}.
 \end{itemize}
 \end{frame}
-
 
 \begin{frame} %\frametitle{}
 \begin{figure}[h]
@@ -289,7 +412,6 @@
 \end{itemize}
 \end{frame}
 
-
 \begin{frame} %\frametitle{}
 \begin{itemize}
 \item The formation of economic relationships leads to a global social structure termed as an \textbf{interaction infrastructure}.
@@ -304,7 +426,7 @@
 \medskip
 \item Interaction infrastructures are represented as \emph{networks}.
 \medskip
-\item Leads to the modelling Lemma regarding the positional attributes of economic agents: 
+\item Leads to the modelling Lemma regarding the positional attributes of economic agents:
 \begin{itemize}
 \medskip
 \item Economic agents have a relational position within an interaction infrastructure. These positional attributes are derived from the economic interactions they form with others.
@@ -316,7 +438,7 @@
 
 \begin{frame} \frametitle{Chapter 2: Growth \& development of the socio-economic space}
 \begin{itemize}
-\item All economic relationships and interactions are socially embedded and exist within some well-defined \emph{space}. 
+\item All economic relationships and interactions are socially embedded and exist within some well-defined \emph{space}.
 \begin{itemize}
 \medskip
 \item We term this interaction space as a \textbf{socio-economic space}.
@@ -419,10 +541,10 @@ is the class of all finite ordered sequences of economic agents, representing \t
 \begin{itemize}
 \item If the division of labour is at the centre of the relational perspective, then its evolution is of major importance in our discussion.
 \medskip
-\item We have discussed many of the attributes the socio-economic space: 
+\item We have discussed many of the attributes the socio-economic space:
 \begin{itemize}
 \medskip
-\item \textbf{The fundamental elements:} Consumer-producers, governance system, and interaction infrastructures; and 
+\item \textbf{The fundamental elements:} Consumer-producers, governance system, and interaction infrastructures; and
 \medskip
 \item \textbf{The fundamental forces:} Guidance, networking and embeddedness.
 \end{itemize}
