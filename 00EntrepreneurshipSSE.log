@@ -1,0 +1,6244 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.1.26)  8 FEB 2017 16:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**00EntrepreneurshipSSE.tex
+(./00EntrepreneurshipSSE.tex
+LaTeX2e <2017/01/01>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/shorttoc/shorttoc.sty
+Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+(/usr/share/texlive/texmf-dist/tex/latex/vmargin/vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen104
+\PaperHeight=\dimen105
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen106
+\extrarowheight=\dimen107
+\NC@list=\toks14
+\extratabsurround=\skip45
+\backup@length=\skip46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box26
+\sift@deathcycles=\count89
+\@vwid@loff=\dimen108
+\@vwid@roff=\dimen109
+)
+\c@taburow=\count90
+\tabu@nbcols=\count91
+\tabu@cnt=\count92
+\tabu@Xcol=\count93
+\tabu@alloc=\count94
+\tabu@nested=\count95
+\tabu@target=\dimen110
+\tabu@spreadtarget=\dimen111
+\tabu@naturalX=\dimen112
+\tabucolX=\dimen113
+\tabu@Xsum=\dimen114
+\extrarowdepth=\dimen115
+\abovetabulinesep=\dimen116
+\belowtabulinesep=\dimen117
+\tabustrutrule=\dimen118
+\tabu@thebody=\toks15
+\tabu@footnotes=\toks16
+\tabu@box=\box27
+\tabu@arstrutbox=\box28
+\tabu@hleads=\box29
+\tabu@vleads=\box30
+\tabu@cellskip=\skip47
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count96
+))
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip48
+\fb@frw=\dimen119
+\fb@frh=\dimen120
+\FrameRule=\dimen121
+\FrameSep=\dimen122
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks18
+\thm@bodyfont=\toks19
+\thm@headfont=\toks20
+\thm@notefont=\toks21
+\thm@headpunct=\toks22
+\thm@preskip=\skip49
+\thm@postskip=\skip50
+\thm@headsep=\skip51
+\dth@everypar=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2016/12/11 v2.0a Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2016/12/11 v2.0a Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen123
+\Hy@linkcounter=\count97
+\Hy@pagecounter=\count98
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count99
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4362.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count100
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen124
+\Fld@menulength=\count101
+\Field@Width=\dimen125
+\Fld@charsize=\dimen126
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring ON on input line 6360.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count102
+\c@Item=\count103
+\c@Hfootnote=\count104
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count105
+\c@bookmark@seq@number=\count106
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen129
+\pgfutil@tempdimb=\dimen130
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box31
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen131
+\pgf@y=\dimen132
+\pgf@xa=\dimen133
+\pgf@ya=\dimen134
+\pgf@xb=\dimen135
+\pgf@yb=\dimen136
+\pgf@xc=\dimen137
+\pgf@yc=\dimen138
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count107
+\c@pgf@countb=\count108
+\c@pgf@countc=\count109
+\c@pgf@countd=\count110
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count111
+\pgfsyssoftpath@bigbuffer@items=\count112
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen139
+\pgfmath@count=\count113
+\pgfmath@box=\box32
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count114
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen140
+\pgf@picmaxx=\dimen141
+\pgf@picminy=\dimen142
+\pgf@picmaxy=\dimen143
+\pgf@pathminx=\dimen144
+\pgf@pathmaxx=\dimen145
+\pgf@pathminy=\dimen146
+\pgf@pathmaxy=\dimen147
+\pgf@xx=\dimen148
+\pgf@xy=\dimen149
+\pgf@yx=\dimen150
+\pgf@yy=\dimen151
+\pgf@zx=\dimen152
+\pgf@zy=\dimen153
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen154
+\pgf@path@lasty=\dimen155
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen156
+\pgf@shorten@start@additional=\dimen157
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count115
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen158
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen159
+\pgf@pt@y=\dimen160
+\pgf@pt@temp=\dimen161
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen162
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen163
+\pgf@sys@shading@range@num=\count116
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box36
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box37
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen164
+\pgf@nodesepend=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen166
+\pgffor@skip=\dimen167
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count117
+\pgfplotmarksize=\dimen168
+)
+\tikz@lastx=\dimen169
+\tikz@lasty=\dimen170
+\tikz@lastxsaved=\dimen171
+\tikz@lastysaved=\dimen172
+\tikzleveldistance=\dimen173
+\tikzsiblingdistance=\dimen174
+\tikz@figbox=\box38
+\tikz@figbox@bg=\box39
+\tikz@tempbox=\box40
+\tikz@tempbox@bg=\box41
+\tikztreelevel=\count118
+\tikznumberofchildren=\count119
+\tikznumberofcurrentchild=\count120
+\tikz@fig@count=\count121
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count122
+\pgfmatrixcurrentcolumn=\count123
+\pgf@matrix@numberofcolumns=\count124
+)
+\tikz@expandcount=\count125
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
+\MT@toks=\toks37
+\MT@count=\count126
+LaTeX Info: Redefining \textls on input line 774.
+\MT@outer@kern=\dimen175
+LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
+\MT@listname@count=\count127
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 916.
+LaTeX Info: Redefining \lslig on input line 916.
+\MT@outer@space=\skip53
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/eqnarray/eqnarray.sty
+equationarray 1.3 <December 1, 2010>
+Package: eqnarray 
+\@eqargcnt=\count128
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count129
+\rotFPtop=\skip54
+\rotFPbot=\skip55
+\rot@float@box=\box42
+\rot@mess@toks=\toks38
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen176
+\lightrulewidth=\dimen177
+\cmidrulewidth=\dimen178
+\belowrulesep=\dimen179
+\belowbottomsep=\dimen180
+\aboverulesep=\dimen181
+\abovetopsep=\dimen182
+\cmidrulesep=\dimen183
+\cmidrulekern=\dimen184
+\defaultaddspace=\dimen185
+\@cmidla=\count130
+\@cmidlb=\count131
+\@aboverulesep=\dimen186
+\@belowrulesep=\dimen187
+\@thisruleclass=\count132
+\@lastruleclass=\count133
+\@thisrulewidth=\dimen188
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count134
+\calc@Bcount=\count135
+\calc@Adimen=\dimen189
+\calc@Bdimen=\dimen190
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count136
+\calc@Cskip=\skip58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks39
+\ex@=\dimen191
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen192
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count137
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count138
+\leftroot@=\count139
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count140
+\DOTSCASE@=\count141
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box43
+\strutbox@=\box44
+\big@size=\dimen193
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count142
+\c@MaxMatrixCols=\count143
+\dotsspace@=\muskip11
+\c@parentequation=\count144
+\dspbrk@lvl=\count145
+\tag@help=\toks40
+\row@=\count146
+\column@=\count147
+\maxfields@=\count148
+\andhelp@=\toks41
+\eqnshift@=\dimen194
+\alignsep@=\dimen195
+\tagshift@=\dimen196
+\tagwidth@=\dimen197
+\totwidth@=\dimen198
+\lineht@=\dimen199
+\@envbody=\toks42
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks43
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count149
+\l_MT_multwidth_dim=\dimen256
+\origjot=\skip62
+\l_MT_shortvdotswithinadjustabove_dim=\dimen257
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen258
+\l_MT_above_intertext_sep=\dimen259
+\l_MT_below_intertext_sep=\dimen260
+\l_MT_above_shortintertext_sep=\dimen261
+\l_MT_below_shortintertext_sep=\dimen262
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count150
+\float@exts=\toks44
+\float@box=\box45
+\@float@everytoks=\toks45
+\@floatcapt=\box46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thmtools.sty
+Package: thmtools 2014/04/21 v66
+\thmt@toks=\toks46
+\c@thmt@dummyctr=\count151
+
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-patch.sty
+Package: thm-patch 2014/04/21 v66
+
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/parseargs.sty
+Package: parseargs 2014/04/21 v66
+\@parsespec=\toks47
+))
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-kv.sty
+Package: thm-kv 2014/04/21 v66
+Package thm-kv Info: Theorem names will be uppercased on input line 40.
+Package thm-kv Info: kvsetkeys patch (v1.16 or later) on input line 156.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-autoref.sty
+Package: thm-autoref 2014/04/21 v66
+
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/aliasctr.sty
+Package: aliasctr 2014/04/21 v66
+
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/remreset.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-listof.sty
+Package: thm-listof 2014/04/21 v66
+)
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-restate.sty
+Package: thm-restate 2014/04/21 v66
+)
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-amsthm.sty
+Package: thm-amsthm 2014/04/21 v66
+\thmt@style@headstyle=\toks48
+))
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+\@float@every@table=\toks49
+
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip63
+\f@ncyO@elh=\skip64
+\f@ncyO@erh=\skip65
+\f@ncyO@olh=\skip66
+\f@ncyO@orh=\skip67
+\f@ncyO@elf=\skip68
+\f@ncyO@erf=\skip69
+\f@ncyO@olf=\skip70
+\f@ncyO@orf=\skip71
+)
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count152
+\c@@ppsavesec=\count153
+\c@@ppsaveapp=\count154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2009/09/02 v1.0a change counter resetting
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count155
+)
+\c@llst=\count156
+\c@thm=\count157
+\c@theorem=\count158
+\@indexfile=\write4
+\openout4 = `00EntrepreneurshipSSE.idx'.
+
+
+Writing index file 00EntrepreneurshipSSE.idx
+(./00EntrepreneurshipSSE.aux (./01Introduction.aux) (./Part1.aux)
+(./02TowardARelationalPerspective.aux)
+(./03GrowthDevelopmentSocioEconomicSpace.aux) (./04Entrepreneurship.aux)
+(./Part2.aux) (./05MiddlemenAsEntrepreneurs.aux) (./06BlockFormation.aux)
+(./Part3.aux) (./07ControlInHypergraphs.aux) (./08NYCControl.aux))
+\openout1 = `00EntrepreneurshipSSE.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count159
+\scratchdimen=\dimen263
+\scratchbox=\box47
+\nofMPsegments=\count160
+\nofMParguments=\count161
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count162
+\MPscratchDim=\dimen264
+\MPnumerator=\count163
+\makeMPintoPDFobject=\count164
+\everyMPtoPDFconversion=\toks51
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box48
+Package hyperref Info: Link coloring ON on input line 114.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count165
+)
+LaTeX Info: Redefining \ref on input line 114.
+LaTeX Info: Redefining \pageref on input line 114.
+LaTeX Info: Redefining \nameref on input line 114.
+
+(./00EntrepreneurshipSSE.out) (./00EntrepreneurshipSSE.out)
+\@outlinefile=\write5
+\openout5 = `00EntrepreneurshipSSE.out'.
+
+
+ABD: EveryShipout initializing macros
+LaTeX Info: Redefining \microtypecontext on input line 114.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+<Images/qublogo2.png, id=521, 800.9925pt x 1026.83624pt>
+File: Images/qublogo2.png Graphic file (type png)
+
+<use Images/qublogo2.png>
+Package pdftex.def Info: Images/qublogo2.png used on input line 137.
+(pdftex.def)             Requested size: 64.1121pt x 82.1799pt.
+ [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/qublogo2.png>] [2
+] [3
+
+] [4] (./00EntrepreneurshipSSE.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.59 ...ion infrastructures}{66}{subsection.2.3.4}
+                                                   [1
+
+]
+Underfull \vbox (badness 2012) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.148 ...ddlemen as entrepreneurs}{167}{chapter.5}
+                                                   [2]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.iii}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.202 ...g control in hypergraphs}{243}{chapter.7}
+                                                   [3])
+\tf@toc=\write6
+\openout6 = `00EntrepreneurshipSSE.toc'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.iv}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.174 \listoffigures
+                     [4] (./00EntrepreneurshipSSE.lof
+Underfull \vbox (badness 1189) has occurred while \output is active []
+
+ [5
+
+])
+\tf@lof=\write7
+\openout7 = `00EntrepreneurshipSSE.lof'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6]
+
+Package natbib Warning: Citation `Hodgson2009' on page vii undefined on input l
+ine 180.
+
+[7
+
+] [8]
+\openout2 = `01Introduction.aux'.
+
+ (./01Introduction.tex
+Chapter 1.
+
+Package natbib Warning: Citation `Smith1776' on page 1 undefined on input line 
+4.
+
+
+Package natbib Warning: Citation `Schumpeter1942' on page 1 undefined on input 
+line 6.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+]
+
+Package natbib Warning: Citation `Arnsperger2006' on page 2 undefined on input 
+line 17.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3]
+
+Package natbib Warning: Citation `Blume2009' on page 4 undefined on input line 
+27.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+Underfull \vbox (badness 5592) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5]
+
+Package natbib Warning: Citation `Romer1990' on page 6 undefined on input line 
+47.
+
+
+Package natbib Warning: Citation `Hodgson2009' on page 6 undefined on input lin
+e 49.
+
+
+Package natbib Warning: Citation `Smith2010' on page 6 undefined on input line 
+49.
+
+
+Package natbib Warning: Citation `Keen2011' on page 6 undefined on input line 4
+9.
+
+
+Underfull \vbox (badness 1859) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6]
+
+Package natbib Warning: Citation `Coase1997' on page 7 undefined on input line 
+51.
+
+
+Package natbib Warning: Citation `Knight1921' on page 7 undefined on input line
+ 51.
+
+
+Package natbib Warning: Citation `Krugman2009' on page 7 undefined on input lin
+e 51.
+
+
+Package natbib Warning: Citation `Stiglitz2010' on page 7 undefined on input li
+ne 51.
+
+
+Package natbib Warning: Citation `Varoufakis2011' on page 7 undefined on input 
+line 51.
+
+
+Package natbib Warning: Citation `Backhouse2010' on page 7 undefined on input l
+ine 51.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7]
+
+Package natbib Warning: Citation `Gilles1990' on page 8 undefined on input line
+ 61.
+
+Package hyperref Info: bookmark level for unknown definition defaults to 0 on i
+nput line 65.
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8]
+
+Package natbib Warning: Citation `Schumpeter1954' on page 9 undefined on input 
+line 77.
+
+
+Package natbib Warning: Citation `Groenewegen1987' on page 9 undefined on input
+ line 81.
+
+
+Package natbib Warning: Citation `Sun2005' on page 9 undefined on input line 81
+.
+
+Package hyperref Info: bookmark level for unknown lemma defaults to 0 on input 
+line 85.
+
+Package natbib Warning: Citation `Horan2005' on page 9 undefined on input line 
+91.
+
+
+Underfull \vbox (badness 2205) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9]
+
+Package natbib Warning: Citation `Horan2005' on page 10 undefined on input line
+ 97.
+
+
+Package natbib Warning: Citation `KuhnSteiner2006' on page 10 undefined on inpu
+t line 101.
+
+
+Package natbib Warning: Citation `AdamiHintze2013' on page 10 undefined on inpu
+t line 101.
+
+
+Package natbib Warning: Citation `Sun2012' on page 10 undefined on input line 1
+05.
+
+
+Package natbib Warning: Citation `Yang2003' on page 10 undefined on input line 
+105.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10]
+
+Package natbib Warning: Citation `Smith1776' on page 11 undefined on input line
+ 109.
+
+
+Package natbib Warning: Citation `Smith1776' on page 11 undefined on input line
+ 113.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11]
+
+Package natbib Warning: Citation `Stigler1951' on page 12 undefined on input li
+ne 115.
+
+
+Package natbib Warning: Citation `Smith1776' on page 12 undefined on input line
+ 115.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12]
+
+Package natbib Warning: Citation `Plato2007' on page 13 undefined on input line
+ 129.
+
+
+Package natbib Warning: Citation `Silvermintz2010' on page 13 undefined on inpu
+t line 133.
+
+
+Package natbib Warning: Citation `Foley1974' on page 13 undefined on input line
+ 137.
+
+
+Package natbib Warning: Citation `McNulty1975' on page 13 undefined on input li
+ne 137.
+
+
+Package natbib Warning: Citation `Hume1740' on page 13 undefined on input line 
+151.
+
+
+Package natbib Warning: Citation `Turgot1774' on page 13 undefined on input lin
+e 151.
+
+
+Package natbib Warning: Citation `YangNg1998' on page 13 undefined on input lin
+e 151.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13]
+
+Package natbib Warning: Citation `Mandeville1795' on page 14 undefined on input
+ line 153.
+
+
+Package natbib Warning: Citation `Mandeville1795' on page 14 undefined on input
+ line 159.
+
+
+Package natbib Warning: Citation `Ricardo1817' on page 14 undefined on input li
+ne 163.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 174.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 174.
+
+
+Package natbib Warning: Citation `Marshall1890' on page 15 undefined on input l
+ine 181.
+
+
+Package natbib Warning: Citation `BuchananYoon1994' on page 15 undefined on inp
+ut line 181.
+
+
+Package natbib Warning: Citation `Samuelson1948' on page 15 undefined on input 
+line 181.
+
+
+Package natbib Warning: Citation `Stigler1951' on page 15 undefined on input li
+ne 183.
+
+
+Package natbib Warning: Citation `Hayek1945' on page 15 undefined on input line
+ 183.
+
+
+Package natbib Warning: Citation `Young1928' on page 15 undefined on input line
+ 183.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15]
+
+Package natbib Warning: Citation `Stigler1951' on page 16 undefined on input li
+ne 185.
+
+
+Package natbib Warning: Citation `Stigler1976' on page 16 undefined on input li
+ne 191.
+
+
+Package natbib Warning: Citation `Hayek1945' on page 16 undefined on input line
+ 195.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16]
+
+Package natbib Warning: Citation `Young1928' on page 17 undefined on input line
+ 197.
+
+
+Package natbib Warning: Citation `Yang2001' on page 17 undefined on input line 
+197.
+
+
+Package natbib Warning: Citation `Yang1988' on page 17 undefined on input line 
+199.
+
+
+Package natbib Warning: Citation `YangNg1995' on page 17 undefined on input lin
+e 199.
+
+
+Package natbib Warning: Citation `Yang2000' on page 17 undefined on input line 
+199.
+
+
+Package natbib Warning: Citation `YangZhang2003' on page 17 undefined on input 
+line 199.
+
+
+Package natbib Warning: Citation `Yao2002' on page 17 undefined on input line 1
+99.
+
+
+Package natbib Warning: Citation `SunYangZhou2004' on page 17 undefined on inpu
+t line 199.
+
+
+Package natbib Warning: Citation `YangYao2005' on page 17 undefined on input li
+ne 199.
+
+
+Package natbib Warning: Citation `YangNg1993' on page 17 undefined on input lin
+e 199.
+
+
+Package natbib Warning: Citation `YangChengShi2005' on page 17 undefined on inp
+ut line 199.
+
+
+Package natbib Warning: Citation `TombazosYang2006' on page 17 undefined on inp
+ut line 199.
+
+
+Package natbib Warning: Citation `YangLiu2008' on page 17 undefined on input li
+ne 199.
+
+
+Package natbib Warning: Citation `BuchananYoon1994' on page 17 undefined on inp
+ut line 201.
+
+
+Package natbib Warning: Citation `Coase1992' on page 17 undefined on input line
+ 201.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17]
+Package hyperref Info: bookmark level for unknown hypothesis defaults to 0 on i
+nput line 207.
+
+
+Package natbib Warning: Citation `vNM' on page 18 undefined on input line 217.
+
+
+Package natbib Warning: Citation `KalaiMiddlemen1978' on page 18 undefined on i
+nput line 217.
+
+
+Package natbib Warning: Citation `Granovetter2005' on page 18 undefined on inpu
+t line 217.
+
+
+Package natbib Warning: Citation `KalaiMiddlemen1978' on page 18 undefined on i
+nput line 217.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18]
+
+Package natbib Warning: Citation `Newman2010' on page 19 undefined on input lin
+e 228.
+
+
+Package natbib Warning: Citation `Barabasi2016' on page 19 undefined on input l
+ine 228.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19]
+
+Package natbib Warning: Citation `WattsStrogatz1998' on page 20 undefined on in
+put line 234.
+
+
+Package natbib Warning: Citation `SpornsTononi2005' on page 20 undefined on inp
+ut line 234.
+
+
+Package natbib Warning: Citation `Sporns2010' on page 20 undefined on input lin
+e 234.
+
+
+Package natbib Warning: Citation `BarabasiAlbert1999' on page 20 undefined on i
+nput line 236.
+
+
+Package natbib Warning: Citation `JacksonRogers2007' on page 20 undefined on in
+put line 240.
+
+
+Package natbib Warning: Citation `Karinthy1929' on page 20 undefined on input l
+ine 240.
+
+
+Package natbib Warning: Citation `Simmel1950' on page 20 undefined on input lin
+e 240.
+
+
+Package natbib Warning: Citation `Milgram1967' on page 20 undefined on input li
+ne 242.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20]
+
+Package natbib Warning: Citation `Watts2002' on page 21 undefined on input line
+ 244.
+
+
+Package natbib Warning: Citation `KossinetsWatts2006' on page 21 undefined on i
+nput line 244.
+
+
+Package natbib Warning: Citation `Feld1981' on page 21 undefined on input line 
+244.
+
+
+Package natbib Warning: Citation `Feld1982' on page 21 undefined on input line 
+244.
+
+
+Package natbib Warning: Citation `Simon1955' on page 21 undefined on input line
+ 246.
+
+
+Package natbib Warning: Citation `Newman2003mixing' on page 21 undefined on inp
+ut line 248.
+
+
+Package natbib Warning: Citation `McPherson2001' on page 21 undefined on input 
+line 248.
+
+
+Package natbib Warning: Citation `Haldane2009' on page 21 undefined on input li
+ne 248.
+
+
+Package natbib Warning: Citation `HaldaneMay2011' on page 21 undefined on input
+ line 248.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21]
+
+Package natbib Warning: Citation `ErdosRenyi1959' on page 22 undefined on input
+ line 318.
+
+
+Package natbib Warning: Citation `Gilbert1959' on page 22 undefined on input li
+ne 318.
+
+
+Package natbib Warning: Citation `Bollobas2001' on page 22 undefined on input l
+ine 318.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.323 
+      ]
+
+Package natbib Warning: Citation `WattsStrogatz1998' on page 23 undefined on in
+put line 326.
+
+
+Package natbib Warning: Citation `Watts1999' on page 23 undefined on input line
+ 326.
+
+
+Package natbib Warning: Citation `NewmanStrogatzWatts2001' on page 23 undefined
+ on input line 326.
+
+
+Package natbib Warning: Citation `Kleinberg2000a' on page 23 undefined on input
+ line 328.
+
+
+Package natbib Warning: Citation `Kleinberg2000b' on page 23 undefined on input
+ line 328.
+
+
+Package natbib Warning: Citation `JacksonRogers2005' on page 23 undefined on in
+put line 328.
+
+
+Package natbib Warning: Citation `Price1976' on page 23 undefined on input line
+ 332.
+
+
+Package natbib Warning: Citation `BarabasiAlbert1999' on page 23 undefined on i
+nput line 332.
+
+
+Package natbib Warning: Citation `CooperFrieze2003' on page 23 undefined on inp
+ut line 332.
+
+
+Package natbib Warning: Citation `Kleinberg1999' on page 23 undefined on input 
+line 332.
+
+
+Package natbib Warning: Citation `Kumar2000' on page 23 undefined on input line
+ 332.
+
+
+Package natbib Warning: Citation `Fabrikant2003' on page 23 undefined on input 
+line 332.
+
+
+Package natbib Warning: Citation `Klemm2002a' on page 23 undefined on input lin
+e 332.
+
+
+Package natbib Warning: Citation `Callaway2001' on page 23 undefined on input l
+ine 332.
+
+
+Package natbib Warning: Citation `Krapivsky2002' on page 23 undefined on input 
+line 332.
+
+
+Package natbib Warning: Citation `Faloutsos1999' on page 23 undefined on input 
+line 334.
+
+
+Package natbib Warning: Citation `DorogovtsevMendes2003' on page 23 undefined o
+n input line 334.
+
+
+Package natbib Warning: Citation `Barabasi2009' on page 23 undefined on input l
+ine 334.
+
+
+Package natbib Warning: Citation `Barabasi2012' on page 23 undefined on input l
+ine 334.
+
+
+Package natbib Warning: Citation `Barabasi2011' on page 23 undefined on input l
+ine 334.
+
+
+Package natbib Warning: Citation `AlbertJeongBarabasi1999' on page 23 undefined
+ on input line 334.
+
+
+Package natbib Warning: Citation `AlbertJeongBarabasi2000' on page 23 undefined
+ on input line 334.
+
+
+Package natbib Warning: Citation `JacksonRogers2007' on page 23 undefined on in
+put line 336.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23]
+
+Package natbib Warning: Citation `RauchCasella2001' on page 24 undefined on inp
+ut line 342.
+
+
+Package natbib Warning: Citation `Uzzi1996' on page 24 undefined on input line 
+342.
+
+
+Package natbib Warning: Citation `Weisbuch2000' on page 24 undefined on input l
+ine 344.
+
+
+Package natbib Warning: Citation `KirmanVriend2001' on page 24 undefined on inp
+ut line 344.
+
+
+Package natbib Warning: Citation `Vignes1993' on page 24 undefined on input lin
+e 344.
+
+
+Package natbib Warning: Citation `VignesEtienne2011' on page 24 undefined on in
+put line 344.
+
+
+Package natbib Warning: Citation `Granovetter1973' on page 24 undefined on inpu
+t line 346.
+
+
+Package natbib Warning: Citation `Jackson2008' on page 24 undefined on input li
+ne 346.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24]
+
+Package natbib Warning: Citation `Burt1992' on page 25 undefined on input line 
+348.
+
+
+Package natbib Warning: Citation `Burt2004' on page 25 undefined on input line 
+348.
+
+
+Package natbib Warning: Citation `CookWhitmeyer1992' on page 25 undefined on in
+put line 350.
+
+
+Package natbib Warning: Citation `Emerson1962' on page 25 undefined on input li
+ne 350.
+
+
+Package natbib Warning: Citation `Emerson1972a' on page 25 undefined on input l
+ine 350.
+
+
+Package natbib Warning: Citation `Emerson1972b' on page 25 undefined on input l
+ine 350.
+
+
+Package natbib Warning: Citation `Emerson1976' on page 25 undefined on input li
+ne 350.
+
+
+Package natbib Warning: Citation `Hall1935' on page 25 undefined on input line 
+354.
+
+
+Package natbib Warning: Citation `Corominas-Bosch1999' on page 25 undefined on 
+input line 354.
+
+
+Package natbib Warning: Citation `Corominas-Bosch2004' on page 25 undefined on 
+input line 354.
+
+
+Package natbib Warning: Citation `Blume2009' on page 25 undefined on input line
+ 354.
+
+
+Package natbib Warning: Citation `KrantonMinehart2001' on page 25 undefined on 
+input line 354.
+
+
+Package natbib Warning: Citation `Jackson2008' on page 25 undefined on input li
+ne 354.
+
+
+Package natbib Warning: Citation `Kakade2004a' on page 25 undefined on input li
+ne 354.
+
+
+Package natbib Warning: Citation `Kakade2004b' on page 25 undefined on input li
+ne 354.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25]
+
+Package natbib Warning: Citation `EasleyKleinberg2010' on page 26 undefined on 
+input line 388.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.391 
+      ])
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27]
+\openout2 = `Part1.aux'.
+
+ (./Part1.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28
+
+
+
+] [29] [30]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31])
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32]
+\openout2 = `02TowardARelationalPerspective.aux'.
+
+ (./02TowardARelationalPerspective.tex
+Chapter 2.
+
+Package natbib Warning: Citation `Houthakker1956' on page 33 undefined on input
+ line 4.
+
+
+Package natbib Warning: Citation `Liang2014' on page 33 undefined on input line
+ 4.
+
+
+Package natbib Warning: Citation `Marx1847' on page 33 undefined on input line 
+4.
+
+
+Package natbib Warning: Citation `BeckerMurphy1992' on page 33 undefined on inp
+ut line 4.
+
+
+Package natbib Warning: Citation `Rosen1983' on page 33 undefined on input line
+ 4.
+
+
+Package natbib Warning: Citation `Lucas1988' on page 33 undefined on input line
+ 4.
+
+
+Package natbib Warning: Citation `YangBorland1991' on page 33 undefined on inpu
+t line 4.
+
+
+Package natbib Warning: Citation `YangShi1992' on page 33 undefined on input li
+ne 4.
+
+
+Package natbib Warning: Citation `ChengYang2004' on page 33 undefined on input 
+line 4.
+
+
+Underfull \vbox (badness 2486) has occurred while \output is active []
+
+ [33
+
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[35]
+
+Package natbib Warning: Citation `Simon1985' on page 36 undefined on input line
+ 35.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36]
+
+Package natbib Warning: Citation `Arnsperger2006' on page 37 undefined on input
+ line 49.
+
+
+Package natbib Warning: Citation `ArrowDebreu1954' on page 37 undefined on inpu
+t line 53.
+
+
+Package natbib Warning: Citation `BalaGoyal2000a' on page 37 undefined on input
+ line 53.
+
+
+Package natbib Warning: Citation `GillesSarangi-Building' on page 37 undefined 
+on input line 53.
+
+
+Package natbib Warning: Citation `GillesSarangi2010' on page 37 undefined on in
+put line 53.
+
+
+Package natbib Warning: Citation `Romer2015' on page 37 undefined on input line
+ 53.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37]
+
+Package natbib Warning: Citation `Binmore1987a' on page 38 undefined on input l
+ine 59.
+
+
+Package natbib Warning: Citation `Binmore1987b' on page 38 undefined on input l
+ine 59.
+
+
+Package natbib Warning: Citation `Demsetz1969' on page 38 undefined on input li
+ne 59.
+
+
+Package natbib Warning: Citation `Nash1951' on page 38 undefined on input line 
+61.
+
+
+Package natbib Warning: Citation `JacksonWolinsky1996' on page 38 undefined on 
+input line 61.
+
+
+Package natbib Warning: Citation `JacksonWatts2002WP' on page 38 undefined on i
+nput line 61.
+
+
+Package natbib Warning: Citation `Simon1957' on page 38 undefined on input line
+ 63.
+
+
+Package natbib Warning: Citation `Simon1990' on page 38 undefined on input line
+ 63.
+
+
+Package natbib Warning: Citation `Simon1991b' on page 38 undefined on input lin
+e 63.
+
+
+Package natbib Warning: Citation `GigerenzerGaissmaier2011' on page 38 undefine
+d on input line 63.
+
+
+Package natbib Warning: Citation `Hodgson1997' on page 38 undefined on input li
+ne 63.
+
+
+Package natbib Warning: Citation `Rubinstein1998' on page 38 undefined on input
+ line 63.
+
+
+Underfull \vbox (badness 1975) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[38]
+
+Package natbib Warning: Citation `Pinker1997' on page 39 undefined on input lin
+e 75.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[39]
+
+Package natbib Warning: Citation `Dunbar1998' on page 40 undefined on input lin
+e 77.
+
+
+Package natbib Warning: Citation `Jerison1973' on page 40 undefined on input li
+ne 81.
+
+
+Package natbib Warning: Citation `Gilbert2004' on page 40 undefined on input li
+ne 81.
+
+
+Package natbib Warning: Citation `Schoenemann2006' on page 40 undefined on inpu
+t line 81.
+
+
+Package natbib Warning: Citation `BrockHarvey1980' on page 40 undefined on inpu
+t line 83.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[40]
+
+Package natbib Warning: Citation `Dunbar2009' on page 41 undefined on input lin
+e 85.
+
+
+Package natbib Warning: Citation `WhitenByrne1988' on page 41 undefined on inpu
+t line 85.
+
+
+Package natbib Warning: Citation `Dunbar1998' on page 41 undefined on input lin
+e 87.
+
+
+Package natbib Warning: Citation `Dunbar1998' on page 41 undefined on input lin
+e 91.
+
+
+Package natbib Warning: Citation `Dunbar1992' on page 41 undefined on input lin
+e 95.
+
+
+Package natbib Warning: Citation `Hernando2010' on page 41 undefined on input l
+ine 95.
+
+
+Package natbib Warning: Citation `David-BarrettDunbar2013' on page 41 undefined
+ on input line 97.
+
+
+Package natbib Warning: Citation `Dunbar2014a' on page 41 undefined on input li
+ne 97.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[41]
+
+Package natbib Warning: Citation `Dunbar1998b' on page 42 undefined on input li
+ne 103.
+
+
+Package natbib Warning: Citation `TverskyKahneman1974' on page 42 undefined on 
+input line 107.
+
+Package hyperref Info: bookmark level for unknown axiom defaults to 0 on input 
+line 109.
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[42]
+
+Package natbib Warning: Citation `Knight1921' on page 43 undefined on input lin
+e 113.
+
+
+Package natbib Warning: Citation `Simon1947' on page 43 undefined on input line
+ 113.
+
+
+Package natbib Warning: Citation `Simon1956' on page 43 undefined on input line
+ 113.
+
+
+Package natbib Warning: Citation `Schwartz2002' on page 43 undefined on input l
+ine 113.
+
+
+Package natbib Warning: Citation `Anderson1972' on page 43 undefined on input l
+ine 115.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[43]
+
+Package natbib Warning: Citation `Lancaster1966' on page 44 undefined on input 
+line 147.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[44]
+
+Package natbib Warning: Citation `MasColellWhinstonGreen1995' on page 45 undefi
+ned on input line 160.
+
+
+Package natbib Warning: Citation `Yang1988' on page 45 undefined on input line 
+166.
+
+
+Package natbib Warning: Citation `Yang2001' on page 45 undefined on input line 
+166.
+
+
+Package natbib Warning: Citation `Smith1776' on page 45 undefined on input line
+ 166.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[45]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[46]
+Package hyperref Info: bookmark level for unknown expl defaults to 0 on input l
+ine 190.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[47]
+
+Package natbib Warning: Citation `Gilles2016' on page 48 undefined on input lin
+e 230.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[48pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.236 T
+       he existence of Axiom~\ref{dichotomyhype} and Hypothesis~\ref{IRShyp}...
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[49]
+
+Package natbib Warning: Citation `BuchananYoon2000' on page 50 undefined on inp
+ut line 297.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[50pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.298 
+      ]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[51]
+
+Package natbib Warning: Citation `Milgram1963' on page 52 undefined on input li
+ne 322.
+
+
+Package natbib Warning: Citation `Zimbardo1971' on page 52 undefined on input l
+ine 322.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[52]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[53]
+
+Package natbib Warning: Citation `GillesLazarovaRuys2007' on page 54 undefined 
+on input line 339.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[54]
+
+Package natbib Warning: Citation `Smith1759' on page 55 undefined on input line
+ 364.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[55]
+
+Package natbib Warning: Citation `Wells1970' on page 56 undefined on input line
+ 374.
+
+
+Package natbib Warning: Citation `Commons1931' on page 56 undefined on input li
+ne 380.
+
+
+Package natbib Warning: Citation `Commons1934' on page 56 undefined on input li
+ne 380.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[56]
+
+Package natbib Warning: Citation `Williamson2000' on page 57 undefined on input
+ line 382.
+
+
+Package natbib Warning: Citation `North1991b' on page 57 undefined on input lin
+e 390.
+
+
+Package natbib Warning: Citation `Williamson2000' on page 57 undefined on input
+ line 394.
+
+
+Package natbib Warning: Citation `Sautet2005' on page 57 undefined on input lin
+e 396.
+
+
+Package natbib Warning: Citation `Rodrik2008' on page 57 undefined on input lin
+e 396.
+
+
+Package natbib Warning: Citation `DouhanHenrekson2010' on page 57 undefined on 
+input line 396.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[57]
+
+Package natbib Warning: Citation `Williamson2000' on page 58 undefined on input
+ line 400.
+
+
+Underfull \vbox (badness 7397) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[58]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[59]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 429.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[60]
+
+Package natbib Warning: Citation `Veblen1989b' on page 61 undefined on input li
+ne 452.
+
+
+Package natbib Warning: Citation `North1991b' on page 61 undefined on input lin
+e 452.
+
+
+Package natbib Warning: Citation `Hood2013' on page 61 undefined on input line 
+456.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[61]
+
+Package natbib Warning: Citation `Ruys1981' on page 62 undefined on input line 
+461.
+
+
+Package natbib Warning: Citation `Gilles1990' on page 62 undefined on input lin
+e 461.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.480 \caption
+              [Tripolar reconstruction of economic interaction]{Tripolar rec...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.480 ...r reconstruction of economic interaction}
+                                                  
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[62]pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.499 \caption
+              [Graphical representation of the embeddedness hypothesis]{Grap...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.499 ...sentation of the embeddedness hypothesis}
+                                                  
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[63]
+
+Package natbib Warning: Citation `North1989' on page 64 undefined on input line
+ 517.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[64]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[65]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[66]
+
+Package natbib Warning: Citation `ChristakisFowler2009' on page 67 undefined on
+ input line 549.
+
+
+Package natbib Warning: Citation `Leskovec2005a' on page 67 undefined on input 
+line 549.
+
+
+Package natbib Warning: Citation `Leskovec2007a' on page 67 undefined on input 
+line 549.
+
+
+Package natbib Warning: Citation `Leskovec2008' on page 67 undefined on input l
+ine 549.
+
+
+Package natbib Warning: Citation `North1989' on page 67 undefined on input line
+ 549.
+
+
+Package natbib Warning: Citation `North1990' on page 67 undefined on input line
+ 549.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[67]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[68]
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+ [69
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[70]
+
+Package natbib Warning: Citation `Seabright2009' on page 71 undefined on input 
+line 619.
+
+
+Package natbib Warning: Citation `Zak2004' on page 71 undefined on input line 6
+25.
+
+
+Package natbib Warning: Citation `Kosfeld2005' on page 71 undefined on input li
+ne 625.
+
+
+Package natbib Warning: Citation `Kirsch2005' on page 71 undefined on input lin
+e 625.
+
+
+Package natbib Warning: Citation `Zak2005' on page 71 undefined on input line 6
+27.
+
+
+Package natbib Warning: Citation `Barraza2009' on page 71 undefined on input li
+ne 627.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[71]
+
+Package natbib Warning: Citation `DunbarShultz2007' on page 72 undefined on inp
+ut line 629.
+
+
+Package natbib Warning: Citation `Nowak2005' on page 72 undefined on input line
+ 631.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[72]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[73]
+
+Package natbib Warning: Citation `Smith1776' on page 74 undefined on input line
+ 659.
+
+
+Package natbib Warning: Citation `Mill1848' on page 74 undefined on input line 
+665.
+
+
+Package natbib Warning: Citation `North1990' on page 74 undefined on input line
+ 665.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[74]
+
+Package natbib Warning: Citation `Bagehot1873' on page 75 undefined on input li
+ne 673.
+
+
+Package natbib Warning: Citation `ZakKnack2001' on page 75 undefined on input l
+ine 679.
+
+
+Package natbib Warning: Citation `KnackZak2003' on page 75 undefined on input l
+ine 679.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[75]
+
+Package natbib Warning: Citation `Shiller2008' on page 76 undefined on input li
+ne 681.
+
+
+Package natbib Warning: Citation `Tonkiss2009' on page 76 undefined on input li
+ne 681.
+
+
+Package natbib Warning: Citation `Coleman1990' on page 76 undefined on input li
+ne 687.
+
+
+Package natbib Warning: Citation `Williamson1993' on page 76 undefined on input
+ line 687.
+
+
+Package natbib Warning: Citation `Hardin2006' on page 76 undefined on input lin
+e 689.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[76]
+
+Package natbib Warning: Citation `Fehr2009' on page 77 undefined on input line 
+691.
+
+
+Package natbib Warning: Citation `Kosfeld2005' on page 77 undefined on input li
+ne 695.
+
+
+Package natbib Warning: Citation `Zak2008' on page 77 undefined on input line 6
+95.
+
+
+Package natbib Warning: Citation `Camerer2003' on page 77 undefined on input li
+ne 695.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[77]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[78]pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.740 \caption
+              {Trust as the dual of economic interaction}pdfTeX warning (ext4):
+ destination with the same identifier (name{figure.2.1}) has been already used,
+ duplicate ignored
+<to be read again> 
+                   \relax 
+l.740 ...rust as the dual of economic interaction}
+                                                  
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[79]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[80]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[81]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[82])
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[83]
+\openout2 = `03GrowthDevelopmentSocioEconomicSpace.aux'.
+
+ (./03GrowthDevelopmentSocioEconomicSpace.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[84
+
+
+
+]
+Chapter 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85]
+
+Package natbib Warning: Citation `Anderson1983b' on page 86 undefined on input 
+line 21.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[86]
+
+Package natbib Warning: Citation `Granovetter1985' on page 87 undefined on inpu
+t line 31.
+
+
+Package natbib Warning: Citation `Granovetter2005' on page 87 undefined on inpu
+t line 31.
+
+
+Package natbib Warning: Citation `Lie1997' on page 87 undefined on input line 3
+1.
+
+
+Package natbib Warning: Citation `DiMaggio1988' on page 87 undefined on input l
+ine 31.
+
+
+Package natbib Warning: Citation `Swedberg2000' on page 87 undefined on input l
+ine 31.
+
+
+Package natbib Warning: Citation `Battilana2006' on page 87 undefined on input 
+line 31.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[87] <Images/structure-space.png, id=1404, 1156.32pt x 1067.99pt>
+File: Images/structure-space.png Graphic file (type png)
+
+<use Images/structure-space.png>
+Package pdftex.def Info: Images/structure-space.png used on input line 41.
+(pdftex.def)             Requested size: 289.07928pt x 266.99684pt.
+
+
+Package natbib Warning: Citation `HenreksonSanandaji2011' on page 88 undefined 
+on input line 46.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[88pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.47 
+      <./Images/structure-space.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[89]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[90]
+
+Package natbib Warning: Citation `Gilles2010' on page 91 undefined on input lin
+e 80.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[91]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[92]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[93]
+
+Package natbib Warning: Citation `Hobbes1651' on page 94 undefined on input lin
+e 139.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[94]
+
+Package natbib Warning: Citation `Granovetter1992' on page 95 undefined on inpu
+t line 147.
+
+
+Package natbib Warning: Citation `Granovetter1992' on page 95 undefined on inpu
+t line 147.
+
+
+Package natbib Warning: Citation `deSoto2001' on page 95 undefined on input lin
+e 147.
+
+
+Package natbib Warning: Citation `AcemogluRobinson2012' on page 95 undefined on
+ input line 147.
+
+
+Package natbib Warning: Citation `Schumpeter1928' on page 95 undefined on input
+ line 153.
+
+
+Package natbib Warning: Citation `Schumpeter1928' on page 95 undefined on input
+ line 155.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[95]
+
+Package natbib Warning: Citation `Milgram1973' on page 96 undefined on input li
+ne 157.
+
+
+Package natbib Warning: Citation `Schumpeter1928' on page 96 undefined on input
+ line 157.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[96]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[97]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[98]
+
+Package natbib Warning: Citation `NorthWallis2006' on page 99 undefined on inpu
+t line 187.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[99]
+
+Package natbib Warning: Citation `Coase1937' on page 100 undefined on input lin
+e 195.
+
+
+Package natbib Warning: Citation `Williamson1971' on page 100 undefined on inpu
+t line 195.
+
+
+Package natbib Warning: Citation `Williamson1975' on page 100 undefined on inpu
+t line 195.
+
+
+Package natbib Warning: Citation `Williamson1979' on page 100 undefined on inpu
+t line 195.
+
+
+Package natbib Warning: Citation `JensenMeckling1976' on page 100 undefined on 
+input line 197.
+
+
+Package natbib Warning: Citation `Eisenhardt1989' on page 100 undefined on inpu
+t line 197.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[100]
+
+Package natbib Warning: Citation `Cheung1983' on page 101 undefined on input li
+ne 199.
+
+
+Package natbib Warning: Citation `AghionHolden2011' on page 101 undefined on in
+put line 199.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[101]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[102]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[103]
+
+Package natbib Warning: Citation `Economist2014' on page 104 undefined on input
+ line 243.
+
+
+Package natbib Warning: Citation `West2011' on page 104 undefined on input line
+ 243.
+
+
+Package natbib Warning: Citation `Crotty2009' on page 104 undefined on input li
+ne 245.
+
+
+Package natbib Warning: Citation `Ferguson2014' on page 104 undefined on input 
+line 245.
+
+
+Package natbib Warning: Citation `Hodgson2008' on page 104 undefined on input l
+ine 245.
+
+
+Package natbib Warning: Citation `Hodgson2009' on page 104 undefined on input l
+ine 245.
+
+
+Package natbib Warning: Citation `Krugman2009' on page 104 undefined on input l
+ine 245.
+
+
+Package natbib Warning: Citation `Langton1990' on page 104 undefined on input l
+ine 247.
+
+
+Package natbib Warning: Citation `Taleb2007' on page 104 undefined on input lin
+e 247.
+
+
+Package natbib Warning: Citation `Taleb2013' on page 104 undefined on input lin
+e 247.
+
+
+Package natbib Warning: Citation `Ferguson2011' on page 104 undefined on input 
+line 247.
+
+
+Package natbib Warning: Citation `Diamond2011' on page 104 undefined on input l
+ine 247.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[104]
+
+Package natbib Warning: Citation `AldrichMartinez2007' on page 105 undefined on
+ input line 254.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[105]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[106]
+
+Package natbib Warning: Citation `GillesLazarovaRuys2006' on page 107 undefined
+ on input line 278.
+
+
+Package natbib Warning: Citation `EvansJovanovic1989' on page 107 undefined on 
+input line 280.
+
+
+Package natbib Warning: Citation `Lazear2004' on page 107 undefined on input li
+ne 280.
+
+
+Package natbib Warning: Citation `CagettiNardi2009' on page 107 undefined on in
+put line 280.
+
+
+Package natbib Warning: Citation `SanandajiLeeson2013' on page 107 undefined on
+ input line 280.
+
+
+Underfull \vbox (badness 2088) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[107]
+
+Package natbib Warning: Citation `Baumol1990' on page 108 undefined on input li
+ne 284.
+
+
+Package natbib Warning: Citation `Schumpeter1942' on page 108 undefined on inpu
+t line 284.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[108]
+
+Package natbib Warning: Citation `Edgeworth1881' on page 109 undefined on input
+ line 306.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[109]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[110]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[111]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[112]
+
+Package natbib Warning: Citation `Graeber2011' on page 113 undefined on input l
+ine 376.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[113]
+Underfull \vbox (badness 7326) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[114]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[115]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 425.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[116]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[117]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[118]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[119]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[120]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[121]
+
+Package natbib Warning: Citation `Gilles2016' on page 122 undefined on input li
+ne 607.
+
+Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
+t line 609.
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[122]
+Package hyperref Info: bookmark level for unknown proposition defaults to 0 on 
+input line 621.
+ <Images/Sim1E.png, id=1671, 1027.84pt x 1027.84pt>
+File: Images/Sim1E.png Graphic file (type png)
+
+<use Images/Sim1E.png>
+Package pdftex.def Info: Images/Sim1E.png used on input line 631.
+(pdftex.def)             Requested size: 226.12549pt x 226.12549pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.632 \caption
+              {An interaction infrastructure where $\Delta(\Lambda)=0$ and $...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.632 ...ture where $\Delta(\Lambda)=0$ and $m=1$}
+                                                  
+<Images/Sim2E.png, id=1673, 1027.84pt x 1027.84pt>
+File: Images/Sim2E.png Graphic file (type png)
+ <use Images/Sim2E.png>
+Package pdftex.def Info: Images/Sim2E.png used on input line 642.
+(pdftex.def)             Requested size: 226.12549pt x 226.12549pt.
+
+Underfull \vbox (badness 2080) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[123] <Images/Sim3E.png, id=1684, 1027.84pt x 1027.84pt>
+File: Images/Sim3E.png Graphic file (type png)
+
+<use Images/Sim3E.png>
+Package pdftex.def Info: Images/Sim3E.png used on input line 657.
+(pdftex.def)             Requested size: 226.12549pt x 226.12549pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[124 <./Images/Sim1E.png>] <Images/Sim1C.png, id=1701, 1027.84pt x 1027.84pt>
+File: Images/Sim1C.png Graphic file (type png)
+
+<use Images/Sim1C.png>
+Package pdftex.def Info: Images/Sim1C.png used on input line 681.
+(pdftex.def)             Requested size: 226.12549pt x 226.12549pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[125pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.687 
+       <./Images/Sim2E.png>]
+
+Package natbib Warning: Citation `Schweitzer2009' on page 126 undefined on inpu
+t line 692.
+
+<Images/Sim3C.png, id=1708, 1027.84pt x 1027.84pt>
+File: Images/Sim3C.png Graphic file (type png)
+ <use Images/Sim3C.png>
+Package pdftex.def Info: Images/Sim3C.png used on input line 696.
+(pdftex.def)             Requested size: 226.12549pt x 226.12549pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[126pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.699 \end{figure}
+                   <./Images/Sim3E.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[127pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.707 
+       <./Images/Sim1C.png>]
+Underfull \vbox (badness 4328) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[128pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.711 
+       <./Images/Sim3C.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[129])
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[130]
+\openout2 = `04Entrepreneurship.aux'.
+
+ (./04Entrepreneurship.tex
+Chapter 4.
+
+Package natbib Warning: Citation `Smith1776' on page 131 undefined on input lin
+e 4.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [131
+
+
+
+]
+
+Package natbib Warning: Citation `JongHigginsDriel2015' on page 132 undefined o
+n input line 8.
+
+
+Package natbib Warning: Citation `Brownlow2015' on page 132 undefined on input 
+line 8.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[132]
+
+Package natbib Warning: Citation `Knight1921' on page 133 undefined on input li
+ne 27.
+
+
+Package natbib Warning: Citation `Knight1935' on page 133 undefined on input li
+ne 27.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[133]
+
+Package natbib Warning: Citation `Baumol1968' on page 134 undefined on input li
+ne 29.
+
+
+Package natbib Warning: Citation `Schmitz1989' on page 134 undefined on input l
+ine 29.
+
+
+Package natbib Warning: Citation `WennekersThurik1999' on page 134 undefined on
+ input line 29.
+
+
+Package natbib Warning: Citation `Baumol2007' on page 134 undefined on input li
+ne 29.
+
+
+Package natbib Warning: Citation `Lazear2002' on page 134 undefined on input li
+ne 29.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[134]
+
+Package natbib Warning: Citation `Hindle2008' on page 135 undefined on input li
+ne 37.
+
+
+Package natbib Warning: Citation `Lucas1978' on page 135 undefined on input lin
+e 37.
+
+
+Package natbib Warning: Citation `KihlstromLaffont1979' on page 135 undefined o
+n input line 37.
+
+
+Package natbib Warning: Citation `ShaneLockeCollins2003' on page 135 undefined 
+on input line 39.
+
+
+Package natbib Warning: Citation `AldrichMartinez2007' on page 135 undefined on
+ input line 39.
+
+
+Package natbib Warning: Citation `Peretto1998' on page 135 undefined on input l
+ine 41.
+
+
+Package natbib Warning: Citation `Sanders2007' on page 135 undefined on input l
+ine 41.
+
+
+Package natbib Warning: Citation `AghionHowitt1992' on page 135 undefined on in
+put line 41.
+
+
+Package natbib Warning: Citation `Aghion1997' on page 135 undefined on input li
+ne 41.
+
+
+Package natbib Warning: Citation `HowittAghion1998' on page 135 undefined on in
+put line 41.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[135]
+
+Package natbib Warning: Citation `Aldrich2005' on page 136 undefined on input l
+ine 47.
+
+
+Package natbib Warning: Citation `Schumpeter1934' on page 136 undefined on inpu
+t line 47.
+
+
+Package natbib Warning: Citation `Schumpeter2003' on page 136 undefined on inpu
+t line 47.
+
+
+Package natbib Warning: Citation `Schumpeter1942' on page 136 undefined on inpu
+t line 47.
+
+
+Underfull \vbox (badness 1859) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[136]
+
+Package natbib Warning: Citation `Schumpeter2005' on page 137 undefined on inpu
+t line 53.
+
+
+Package natbib Warning: Citation `SmelsterSwedberg2005' on page 137 undefined o
+n input line 53.
+
+
+Package natbib Warning: Citation `Witt2002' on page 137 undefined on input line
+ 53.
+
+
+Underfull \vbox (badness 2050) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[137]
+
+Package natbib Warning: Citation `Schumpeter1934' on page 138 undefined on inpu
+t line 58.
+
+
+Package natbib Warning: Citation `Becker2006' on page 138 undefined on input li
+ne 61.
+
+
+Package natbib Warning: Citation `Schumpeter2005' on page 138 undefined on inpu
+t line 61.
+
+
+Package natbib Warning: Citation `Schumpeter2003' on page 138 undefined on inpu
+t line 63.
+
+
+Package natbib Warning: Citation `Marz1991' on page 138 undefined on input line
+ 63.
+
+
+Package natbib Warning: Citation `BeckerKnudsen2003' on page 138 undefined on i
+nput line 67.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[138]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[139]
+
+Package natbib Warning: Citation `Schumpeter1934' on page 140 undefined on inpu
+t line 81.
+
+
+Package natbib Warning: Citation `Baumol1990' on page 140 undefined on input li
+ne 87.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[140]
+
+Package natbib Warning: Citation `Burt1992' on page 141 undefined on input line
+ 93.
+
+
+Package natbib Warning: Citation `Burt2005' on page 141 undefined on input line
+ 93.
+
+
+Package natbib Warning: Citation `Burt2010' on page 141 undefined on input line
+ 93.
+
+
+Package natbib Warning: Citation `Granovetter1973' on page 141 undefined on inp
+ut line 95.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[141] <Images/networkbridge.png, id=1800, 533.8344pt x 249.0906pt>
+File: Images/networkbridge.png Graphic file (type png)
+
+<use Images/networkbridge.png>
+Package pdftex.def Info: Images/networkbridge.png used on input line 103.
+(pdftex.def)             Requested size: 363.31941pt x 169.53139pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[142pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.109 
+       <./Images/networkbridge.png>]
+
+Package natbib Warning: Citation `Burt2004' on page 143 undefined on input line
+ 110.
+
+
+Package natbib Warning: Citation `Burt2005' on page 143 undefined on input line
+ 112.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[143]
+
+Package natbib Warning: Citation `Smith1776' on page 144 undefined on input lin
+e 121.
+
+
+Package natbib Warning: Citation `Baumol1990' on page 144 undefined on input li
+ne 129.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[144]
+
+Package natbib Warning: Citation `Murphy1991' on page 145 undefined on input li
+ne 131.
+
+
+Package natbib Warning: Citation `Acemoglu1995' on page 145 undefined on input 
+line 131.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[145]
+
+Package natbib Warning: Citation `HenreksonSanandaji2011' on page 146 undefined
+ on input line 139.
+
+
+Package natbib Warning: Citation `Buchanan1980' on page 146 undefined on input 
+line 139.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[146]
+
+Package natbib Warning: Citation `BoettkeCoyne2009' on page 147 undefined on in
+put line 147.
+
+
+Package natbib Warning: Citation `Dahl1961' on page 147 undefined on input line
+ 147.
+
+
+Package natbib Warning: Citation `HenreksonSanandaji2011' on page 147 undefined
+ on input line 147.
+
+
+Package natbib Warning: Citation `Eisenstadt1980' on page 147 undefined on inpu
+t line 147.
+
+
+Package natbib Warning: Citation `HwangPowell2005' on page 147 undefined on inp
+ut line 147.
+
+
+Package natbib Warning: Citation `DiMaggio1988' on page 147 undefined on input 
+line 147.
+
+
+Package natbib Warning: Citation `Abrutyn2013' on page 147 undefined on input l
+ine 147.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[147]
+Package hyperref Info: bookmark level for unknown conjecture defaults to 0 on i
+nput line 158.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[148]
+
+Package natbib Warning: Citation `Krakovsky2015' on page 149 undefined on input
+ line 167.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[149]
+
+Package natbib Warning: Citation `Crotty2009' on page 150 undefined on input li
+ne 173.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[150]
+Underfull \vbox (badness 1789) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[151]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[152]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[153]
+Underfull \vbox (badness 1859) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[154]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[155] <Images/botticelli.jpg, id=1876, 1089.31969pt x 1505.625pt>
+File: Images/botticelli.jpg Graphic file (type jpg)
+
+<use Images/botticelli.jpg>
+Package pdftex.def Info: Images/botticelli.jpg used on input line 225.
+(pdftex.def)             Requested size: 364.49635pt x 503.79593pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.226 \caption
+              {Botticelli's \emph{Portrait of a Man with a Medal of Cosimo t...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.226 ... a Man with a Medal of Cosimo the Elder}}
+                                                  
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[156]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[157 <./Images/botticelli.jpg>]
+<Images/allnetworks.png, id=1886, 1027.84pt x 2071.74pt>
+File: Images/allnetworks.png Graphic file (type png)
+
+<use Images/allnetworks.png>
+Package pdftex.def Info: Images/allnetworks.png used on input line 246.
+(pdftex.def)             Requested size: 299.93231pt x 604.55107pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package natbib Warning: Citation `Padgett1993' on page 158 undefined on input l
+ine 251.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[158]
+
+LaTeX Warning: Text page 159 contains only floats.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[159pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.252 
+       <./Images/allnetworks.png>]
+
+Package natbib Warning: Citation `Emerson1962' on page 160 undefined on input l
+ine 255.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[160]
+
+Package natbib Warning: Citation `Hibbert1980' on page 161 undefined on input l
+ine 257.
+
+
+Overfull \hbox (1.89691pt too wide) in paragraph at lines 259--259
+[]\T1/cmr/bx/n/14.4 Concluding points and fu-ture dis-cus-sions on so-cially st
+ruc-
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[161])
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[162]
+\openout2 = `Part2.aux'.
+
+ (./Part2.tex [163
+
+
+
+] [164])
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[165]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[166]
+\openout2 = `05MiddlemenAsEntrepreneurs.aux'.
+
+ (./05MiddlemenAsEntrepreneurs.tex
+Chapter 5.
+
+Package natbib Warning: Citation `Watts2004' on page 167 undefined on input lin
+e 4.
+
+
+Package natbib Warning: Citation `Jackson2008' on page 167 undefined on input l
+ine 4.
+
+
+Package natbib Warning: Citation `Newman2010' on page 167 undefined on input li
+ne 4.
+
+
+Package natbib Warning: Citation `Burt1992' on page 167 undefined on input line
+ 6.
+
+
+Package natbib Warning: Citation `GillesDiamantaris2013' on page 167 undefined 
+on input line 8.
+
+
+Package natbib Warning: Citation `EasleyKleinberg2010' on page 167 undefined on
+ input line 8.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [167
+
+
+
+]
+
+Package natbib Warning: Citation `Bonacich1987' on page 168 undefined on input 
+line 12.
+
+
+Package natbib Warning: Citation `Padgett1993' on page 168 undefined on input l
+ine 14.
+
+
+Package natbib Warning: Citation `Padgett1994' on page 168 undefined on input l
+ine 14.
+
+
+Package natbib Warning: Citation `Krackhardt1987' on page 168 undefined on inpu
+t line 14.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[168]
+
+Package natbib Warning: Citation `KalaiMiddlemen1978' on page 169 undefined on 
+input line 24.
+
+
+Package natbib Warning: Citation `RubinsteinWolinsky1987' on page 169 undefined
+ on input line 24.
+
+
+Package natbib Warning: Citation `JacksonWolinsky1996' on page 169 undefined on
+ input line 24.
+
+
+Package natbib Warning: Citation `GillesChakrabarti2006' on page 169 undefined 
+on input line 24.
+
+
+Package natbib Warning: Citation `Burt1992' on page 169 undefined on input line
+ 26.
+
+
+Package natbib Warning: Citation `Burt2004' on page 169 undefined on input line
+ 26.
+
+
+Package natbib Warning: Citation `Burt2005' on page 169 undefined on input line
+ 26.
+
+
+Package natbib Warning: Citation `Burt2010' on page 169 undefined on input line
+ 26.
+
+
+Package natbib Warning: Citation `Granovetter1973' on page 169 undefined on inp
+ut line 26.
+
+
+Package natbib Warning: Citation `Granovetter2005' on page 169 undefined on inp
+ut line 26.
+
+
+Package natbib Warning: Citation `Freeman1979' on page 169 undefined on input l
+ine 28.
+
+
+Package natbib Warning: Citation `Bonacich1972' on page 169 undefined on input 
+line 30.
+
+
+Package natbib Warning: Citation `Bonacich1987' on page 169 undefined on input 
+line 30.
+
+
+Package natbib Warning: Citation `Bonacich2001' on page 169 undefined on input 
+line 30.
+
+
+Package natbib Warning: Citation `Katz1953' on page 169 undefined on input line
+ 30.
+
+
+Package natbib Warning: Citation `BrinPage1998' on page 169 undefined on input 
+line 30.
+
+
+Package natbib Warning: Citation `BrinkGilles1996' on page 169 undefined on inp
+ut line 32.
+
+
+Package natbib Warning: Citation `BrinkGilles2000' on page 169 undefined on inp
+ut line 32.
+
+
+Package natbib Warning: Citation `BormBrink2002' on page 169 undefined on input
+ line 32.
+
+
+Package natbib Warning: Citation `Bozzo2015' on page 169 undefined on input lin
+e 32.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[169]
+Underfull \vbox (badness 2150) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[170]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[171]
+
+Package natbib Warning: Citation `GillesChakrabarti2006' on page 172 undefined 
+on input line 105.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[172]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[173]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[174pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.194 
+      ]
+Package hyperref Info: bookmark level for unknown corollary defaults to 0 on in
+put line 216.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[175]
+
+Package natbib Warning: Citation `GillesDiamantaris2013' on page 176 undefined 
+on input line 224.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[176]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[177]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[178pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.342 
+      ]
+
+Package natbib Warning: Citation `Edgeworth1881' on page 179 undefined on input
+ line 355.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[179]
+
+Package natbib Warning: Citation `Anthonisse1971' on page 180 undefined on inpu
+t line 364.
+
+
+Package natbib Warning: Citation `Freeman1977' on page 180 undefined on input l
+ine 364.
+
+
+Package natbib Warning: Citation `White1994' on page 180 undefined on input lin
+e 364.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.413 \caption
+              [Differentiating betweenness and middlemen]{The directed netwo...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.413 ... $D''$ considered in Example~\ref{ex:BC}}
+                                                  
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[180]
+Overfull \hbox (8.98845pt too wide) in paragraph at lines 444--444
+ []\T1/cmr/m/n/10.95 (-20) Betweenness| 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.5.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.445 \caption
+              {Centrality results for the undirected network $U''$}
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[181]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[182]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[183]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[184]
+
+Package natbib Warning: Citation `JacksonRogers2005' on page 185 undefined on i
+nput line 550.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[185]pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.601 \caption
+              {Undirected network $D$ with a strong middleman}pdfTeX warning (e
+xt4): destination with the same identifier (name{figure.5.1}) has been already 
+used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.601 ...cted network $D$ with a strong middleman}
+                                                  
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[186]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[187]
+LaTeX Font Info:    Try loading font information for U+euf on input line 637.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-euf.cfg
+File: mt-euf.cfg 2006/07/03 v1.1 microtype config. file: AMS Euler Fraktur (RS)
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[188]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[189]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[190]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[191]
+
+Package natbib Warning: Citation `Newman2003betweenness' on page 192 undefined 
+on input line 758.
+
+<Images/Florentine-marr.png, id=2187, 1027.84pt x 1027.84pt>
+File: Images/Florentine-marr.png Graphic file (type png)
+
+<use Images/Florentine-marr.png>
+Package pdftex.def Info: Images/Florentine-marr.png used on input line 762.
+(pdftex.def)             Requested size: 380.29485pt x 380.29485pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.763 \caption
+              {Directed network of Florentine marriages (c. 1434)}pdfTeX warnin
+g (ext4): destination with the same identifier (name{figure.5.1}) has been alre
+ady used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.763 ...etwork of Florentine marriages (c. 1434)}
+                                                  
+
+Package natbib Warning: Citation `Roover1963' on page 192 undefined on input li
+ne 767.
+
+
+Package natbib Warning: Citation `Padgett1994' on page 192 undefined on input l
+ine 767.
+
+
+Package natbib Warning: Citation `Goldthwaite2009' on page 192 undefined on inp
+ut line 767.
+
+
+Package natbib Warning: Citation `Padgett1993' on page 192 undefined on input l
+ine 767.
+
+
+Package natbib Warning: Citation `Padgett1993' on page 192 undefined on input l
+ine 767.
+
+
+Package natbib Warning: Citation `Padgett1993' on page 192 undefined on input l
+ine 769.
+
+
+Package natbib Warning: Citation `Kent1978' on page 192 undefined on input line
+ 769.
+
+
+Package natbib Warning: Citation `Padgett1993' on page 192 undefined on input l
+ine 769.
+
+
+Package natbib Warning: Citation `Padgett1994' on page 192 undefined on input l
+ine 769.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[192]
+
+Package natbib Warning: Citation `Padgett1993' on page 193 undefined on input l
+ine 771.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[193 <./Images/Florentine-marr.png>]
+
+Package natbib Warning: Citation `Padgett1993' on page 194 undefined on input l
+ine 779.
+
+
+Package natbib Warning: Citation `PadgettMcLean2006' on page 194 undefined on i
+nput line 779.
+
+
+Package natbib Warning: Citation `PadgettPowell2012' on page 194 undefined on i
+nput line 779.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[194]
+
+Package natbib Warning: Citation `Newman2004detecting' on page 195 undefined on
+ input line 781.
+
+
+Package natbib Warning: Citation `Newman2006' on page 195 undefined on input li
+ne 781.
+
+
+Package natbib Warning: Citation `Bonacich1987' on page 195 undefined on input 
+line 785.
+
+
+Overfull \hbox (6.03357pt too wide) in paragraph at lines 803--803
+[]\T1/cmr/m/n/10.95 (-20) Castellani(**)|  
+ []
+
+
+Overfull \hbox (4.85542pt too wide) in paragraph at lines 803--803
+[]\T1/cmr/m/n/10.95 (-20) Guadagni(**)|  
+ []
+
+
+Overfull \hbox (1.9706pt too wide) in paragraph at lines 803--803
+[]\T1/cmr/m/n/10.95 (-20) Rondinelli(*)|  
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.5.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.804 \caption
+              {Analysis of middlemen in the marriage network of Renaissance ...
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[195]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[196]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 825.
+
+
+Overfull \hbox (1.95428pt too wide) in paragraph at lines 840--840
+ []\T1/cmr/m/n/10.95 (-20) Undirected| 
+ []
+
+
+Overfull \hbox (1.55516pt too wide) in paragraph at lines 840--840
+[]\T1/cmr/m/n/10.95 (-20) Albizzi(**)|  
+ []
+
+
+Overfull \hbox (15.95209pt too wide) in paragraph at lines 840--840
+[]\T1/cmr/m/n/10.95 (-20) Castellani(**)|  
+ []
+
+
+Overfull \hbox (14.77394pt too wide) in paragraph at lines 840--840
+[]\T1/cmr/m/n/10.95 (-20) Guadagni(**)|  
+ []
+
+
+Overfull \hbox (0.76958pt too wide) in paragraph at lines 840--840
+[]\T1/cmr/m/n/10.95 (-20) Medici(**)|  
+ []
+
+
+Overfull \hbox (11.88911pt too wide) in paragraph at lines 840--840
+[]\T1/cmr/m/n/10.95 (-20) Rondinelli(*)|  
+ []
+
+
+Overfull \hbox (1.66473pt too wide) in paragraph at lines 840--840
+[]\T1/cmr/m/n/10.95 (-20) Strozzi(**)|  
+ []
+
+
+Overfull \hbox (4.60893pt too wide) in paragraph at lines 827--843
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[197] <Images/krack.png, id=2229, 554.82281pt x 557.08125pt>
+File: Images/krack.png Graphic file (type png)
+
+<use Images/krack.png>
+Package pdftex.def Info: Images/krack.png used on input line 851.
+(pdftex.def)             Requested size: 249.66795pt x 250.68425pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.852 \caption
+              {Krackhardt's network of advice among managers}pdfTeX warning (ex
+t4): destination with the same identifier (name{figure.5.2}) has been already u
+sed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.852 ...hardt's network of advice among managers}
+                                                  
+
+Package natbib Warning: Citation `Krackhardt1987' on page 198 undefined on inpu
+t line 858.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package natbib Warning: Citation `Krackhardt1987' on page 198 undefined on inpu
+t line 896.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[198]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[199 <./Images/krack.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[200] <Images/Florentine-modu.png, id=2254, 823.075pt x 588.1975pt>
+File: Images/Florentine-modu.png Graphic file (type png)
+
+<use Images/Florentine-modu.png>
+Package pdftex.def Info: Images/Florentine-modu.png used on input line 918.
+(pdftex.def)             Requested size: 329.22417pt x 235.27483pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.919 \caption
+              {Community structure detection on elite Florentine marriages}pdfT
+eX warning (ext4): destination with the same identifier (name{figure.5.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.919 ... detection on elite Florentine marriages}
+                                                  
+Overfull \hbox (1.20517pt too wide) in paragraph at lines 962--962
+[]\T1/cmr/m/n/10.95 (-20) Albizzi(**)|  
+ []
+
+
+Overfull \hbox (11.27916pt too wide) in paragraph at lines 962--962
+[]\T1/cmr/m/n/10.95 (-20) Aldobrandini|  
+ []
+
+
+Overfull \hbox (15.6021pt too wide) in paragraph at lines 962--962
+[]\T1/cmr/m/n/10.95 (-20) Castellani(**)|  
+ []
+
+
+Overfull \hbox (6.49133pt too wide) in paragraph at lines 962--962
+[]\T1/cmr/m/n/10.95 (-20) Dall'Antella|  
+ []
+
+
+Overfull \hbox (14.42395pt too wide) in paragraph at lines 962--962
+[]\T1/cmr/m/n/10.95 (-20) Guadagni(**)|  
+ []
+
+
+Overfull \hbox (7.31544pt too wide) in paragraph at lines 962--962
+[]\T1/cmr/m/n/10.95 (-20) Guicciardini|  
+ []
+
+
+Overfull \hbox (12.47714pt too wide) in paragraph at lines 962--962
+[]\T1/cmr/m/n/10.95 (-20) Lamberteschi|  
+ []
+
+
+Overfull \hbox (2.04163pt too wide) in paragraph at lines 962--962
+[]\T1/cmr/m/n/10.95 (-20) Panciatichi|  
+ []
+
+
+Overfull \hbox (11.53912pt too wide) in paragraph at lines 962--962
+[]\T1/cmr/m/n/10.95 (-20) Rondinelli(*)|  
+ []
+
+
+Overfull \hbox (1.31474pt too wide) in paragraph at lines 962--962
+[]\T1/cmr/m/n/10.95 (-20) Strozzi(**)|  
+ []
+
+
+Overfull \hbox (3.56657pt too wide) in paragraph at lines 962--962
+[]\T1/cmr/m/n/10.95 (-20) Tornabuoni|  
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.5.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.963 \caption
+              {Measuring the importance of Florentine families (c. 1434)}
+Overfull \hbox (4.25888pt too wide) in paragraph at lines 925--965
+ [][][] 
+ []
+
+) [201
+
+ <./Images/Florentine-modu.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[202]
+\openout2 = `06BlockFormation.aux'.
+
+ (./06BlockFormation.tex
+Chapter 6.
+
+Package natbib Warning: Citation `Gai2010' on page 203 undefined on input line 
+4.
+
+
+Package natbib Warning: Citation `ElliotGolubJackson2014' on page 203 undefined
+ on input line 4.
+
+
+Package natbib Warning: Citation `Vitali2011' on page 203 undefined on input li
+ne 4.
+
+
+Package natbib Warning: Citation `GolubJackson2010' on page 203 undefined on in
+put line 4.
+
+
+Package natbib Warning: Citation `Krackhardt1987' on page 203 undefined on inpu
+t line 4.
+
+
+Package natbib Warning: Citation `Jackson2012' on page 203 undefined on input l
+ine 4.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 6.
+
+
+Package natbib Warning: Citation `Kent1978' on page 203 undefined on input line
+ 8.
+
+
+Package natbib Warning: Citation `Padgett1993' on page 203 undefined on input l
+ine 8.
+
+File: Images/Florentine-marr.png Graphic file (type png)
+<use Images/Florentine-marr.png>
+Package pdftex.def Info: Images/Florentine-marr.png used on input line 15.
+(pdftex.def)             Requested size: 384.68576pt x 384.68625pt.
+
+
+Package natbib Warning: Citation `Roover1946' on page 203 undefined on input li
+ne 20.
+
+
+Package natbib Warning: Citation `Roover1963' on page 203 undefined on input li
+ne 20.
+
+
+Package natbib Warning: Citation `Padgett1993' on page 203 undefined on input l
+ine 20.
+
+
+Package natbib Warning: Citation `Goldthwaite2009' on page 203 undefined on inp
+ut line 20.
+
+
+Package natbib Warning: Citation `Padgett1993' on page 203 undefined on input l
+ine 20.
+
+[203
+
+
+
+]
+Underfull \vbox (badness 1708) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[204pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.23 
+     ]
+
+Package natbib Warning: Citation `KalaiMiddlemen1978' on page 205 undefined on 
+input line 36.
+
+
+Package natbib Warning: Citation `JacksonWolinsky1996' on page 205 undefined on
+ input line 36.
+
+
+Package natbib Warning: Citation `GillesChakrabarti2006' on page 205 undefined 
+on input line 36.
+
+
+Package natbib Warning: Citation `RubinsteinWolinsky1987' on page 205 undefined
+ on input line 36.
+
+
+Package natbib Warning: Citation `Emerson1962' on page 205 undefined on input l
+ine 36.
+
+
+Package natbib Warning: Citation `CookEmersonGillmoreYamagishi1983' on page 205
+ undefined on input line 36.
+
+
+Package natbib Warning: Citation `GouldFernandez1989' on page 205 undefined on 
+input line 36.
+
+
+Package natbib Warning: Citation `Gould1989' on page 205 undefined on input lin
+e 36.
+
+
+Package natbib Warning: Citation `Spiro2013' on page 205 undefined on input lin
+e 36.
+
+
+Package natbib Warning: Citation `SimsGilles2014' on page 205 undefined on inpu
+t line 36.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[205]
+
+Package natbib Warning: Citation `EasleyKleinberg2010' on page 206 undefined on
+ input line 40.
+
+
+Package natbib Warning: Citation `Emerson1962' on page 206 undefined on input l
+ine 40.
+
+
+Package natbib Warning: Citation `GillesDiamantaris2013' on page 206 undefined 
+on input line 40.
+
+
+Package natbib Warning: Citation `GoyalVega-holes' on page 206 undefined on inp
+ut line 42.
+
+
+Package natbib Warning: Citation `Burt1992' on page 206 undefined on input line
+ 42.
+
+
+Package natbib Warning: Citation `Aspremont1983' on page 206 undefined on input
+ line 44.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[206]
+
+Package natbib Warning: Citation `Jackson2008' on page 207 undefined on input l
+ine 54.
+
+
+Package natbib Warning: Citation `Newman2006book' on page 207 undefined on inpu
+t line 54.
+
+
+Package natbib Warning: Citation `Goyal2007' on page 207 undefined on input lin
+e 54.
+
+
+Package natbib Warning: Citation `Newman2010' on page 207 undefined on input li
+ne 54.
+
+
+Package natbib Warning: Citation `Gilles2010' on page 207 undefined on input li
+ne 54.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[207]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[208]pdfTeX warning (ext4): destination with the same identifier (name{figure.6
+.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.134 \caption
+              {Illustration of critical sets in a network}pdfTeX warning (ext4)
+: destination with the same identifier (name{figure.6.1}) has been already used
+, duplicate ignored
+<to be read again> 
+                   \relax 
+l.134 ...lustration of critical sets in a network}
+                                                  
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[209]
+Package hyperref Info: bookmark level for unknown property defaults to 0 on inp
+ut line 146.
+
+Overfull \hbox (5.41331pt too wide) in paragraph at lines 171--176
+\T1/cmr/bx/n/10.95 If: \T1/cmr/m/n/10.95 (-20) Sup-pose that there ex-ists some
+ $\OML/cmm/m/it/10.95 i; j \OMS/cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 N$ \T1/cmr
+/m/n/10.95 (-20) where $\OML/cmm/m/it/10.95 i \OMS/cmsy/m/n/10.95 6\OT1/cmr/m/n
+/10.95 (-20) = \OML/cmm/m/it/10.95 j$ \T1/cmr/m/n/10.95 (-20) such that $[] [] 
+\U/msa/m/n/10.95 >
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[210]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[211]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[212]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[213]
+
+Package natbib Warning: Citation `Burt2002' on page 214 undefined on input line
+ 304.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[214]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[215]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[216]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[217]pdfTeX warning (ext4): destination with the same identifier (name{figure.6
+.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.423 \caption
+              {The network $D_1$ considered in Example \ref{ex:comparison}}pdfT
+eX warning (ext4): destination with the same identifier (name{figure.6.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.423 ...onsidered in Example \ref{ex:comparison}}
+                                                  
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[218]
+
+Package natbib Warning: Citation `HagiuWright2015' on page 219 undefined on inp
+ut line 453.
+
+
+Package natbib Warning: Citation `Myerson1991' on page 219 undefined on input l
+ine 455.
+
+
+Package natbib Warning: Citation `Myerson1991' on page 219 undefined on input l
+ine 455.
+
+
+Package natbib Warning: Citation `Myerson1991' on page 219 undefined on input l
+ine 455.
+
+
+Package natbib Warning: Citation `GillesSarangi2010' on page 219 undefined on i
+nput line 455.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[219]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[220]
+
+Package natbib Warning: Citation `MondererShapley1996' on page 221 undefined on
+ input line 502.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[221]
+
+Package natbib Warning: Citation `Aumann1959' on page 222 undefined on input li
+ne 530.
+
+
+Overfull \hbox (5.13522pt too wide) in paragraph at lines 536--537
+\T1/cmr/m/it/10.95 (-20) strong Nash equi-lib-rium in the cor-re-spond-ing zero
+-cost block for-ma-tion game $\OML/cmm/m/it/10.95 G\OT1/cmr/m/n/10.95 (-20) (\O
+ML/cmm/m/it/10.95 D; ^^[[]; \OT1/cmr/m/n/10.95 (-20) 0)$\T1/cmr/m/it/10.95 (-20
+) . 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[222]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[223]
+Overfull \hbox (0.4096pt too wide) in paragraph at lines 590--590
+[] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[224pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.625 \begin{description}
+                         ]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[225]
+Overfull \hbox (3.14314pt too wide) in paragraph at lines 654--655
+[]\T1/cmr/m/n/10.95 (-20) Now, an in-ter-me-di-a-tion mea-sure $\OML/cmm/m/it/1
+0.95 ^^[[] [] [] \OMS/cmsy/m/n/10.95 B\OT1/cmr/m/n/10.95 (-20) (\OML/cmm/m/it/1
+0.95 D\OT1/cmr/m/n/10.95 (-20) ) \OMS/cmsy/m/n/10.95 ! \U/msb/m/n/10.95 R$ \T1/
+cmr/m/it/10.95 (-20) in-duces \T1/cmr/m/n/10.95 (-20) a cen-tral-ity mea-sure $
+[]\OT1/cmr/m/n/10.95 (-20) (\OML/cmm/m/it/10.95 D\OT1/cmr/m/n/10.95 (-20) ) [] 
+[] \OML/cmm/m/it/10.95 N \OMS/cmsy/m/n/10.95 !
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[226]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[227]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[228]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[229]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[230]
+
+Package natbib Warning: Citation `Carley2002' on page 231 undefined on input li
+ne 747.
+
+
+Package natbib Warning: Citation `Carley2006' on page 231 undefined on input li
+ne 747.
+
+
+Package natbib Warning: Citation `KovacsBarabasi2015' on page 231 undefined on 
+input line 747.
+
+
+Package natbib Warning: Citation `MoroneMaske2015' on page 231 undefined on inp
+ut line 747.
+
+
+Package natbib Warning: Citation `Krebs2002' on page 231 undefined on input lin
+e 749.
+
+
+Package natbib Warning: Citation `Farley2003' on page 231 undefined on input li
+ne 749.
+
+
+Package natbib Warning: Citation `Lindelauf2013' on page 231 undefined on input
+ line 749.
+
+
+Package natbib Warning: Citation `Flores2014' on page 231 undefined on input li
+ne 749.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[231]
+Underfull \hbox (badness 10000) in paragraph at lines 753--753
+[][][]\T1/cmr/m/n/9 (+20) The com-plete 9/11 time-line can be found on The His-
+tory Com-mons web-site at
+ []
+
+
+Package natbib Warning: Citation `Thompson2004' on page 232 undefined on input 
+line 753.
+
+
+Package natbib Warning: Citation `MassonWilkins2013' on page 232 undefined on i
+nput line 753.
+
+
+Package natbib Warning: Citation `Leskovec2005a' on page 232 undefined on input
+ line 759.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[232]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[233]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[234] <Images/T1999-01.png, id=2523, 1024.82875pt x 632.3625pt>
+File: Images/T1999-01.png Graphic file (type png)
+
+<use Images/T1999-01.png>
+Package pdftex.def Info: Images/T1999-01.png used on input line 832.
+(pdftex.def)             Requested size: 409.92424pt x 252.94052pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.834 \caption
+              {The 9/11 terrorist network in January 1999}pdfTeX warning (ext4)
+: destination with the same identifier (name{figure.6.1}) has been already used
+, duplicate ignored
+<to be read again> 
+                   \relax 
+l.834 ...e 9/11 terrorist network in January 1999}
+                                                  
+<Images/T2000-12.png, id=2524, 1014.79124pt x 694.595pt>
+File: Images/T2000-12.png Graphic file (type png)
+
+<use Images/T2000-12.png>
+Package pdftex.def Info: Images/T2000-12.png used on input line 840.
+(pdftex.def)             Requested size: 405.9093pt x 277.83307pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.842 \caption
+              {The 9/11 terrorist network in December 2000}pdfTeX warning (ext4
+): destination with the same identifier (name{figure.6.2}) has been already use
+d, duplicate ignored
+<to be read again> 
+                   \relax 
+l.842 ... 9/11 terrorist network in December 2000}
+                                                  
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/T2001-05.png, id=2525, 1015.795pt x 641.39626pt>
+File: Images/T2001-05.png Graphic file (type png)
+
+<use Images/T2001-05.png>
+Package pdftex.def Info: Images/T2001-05.png used on input line 848.
+(pdftex.def)             Requested size: 406.3108pt x 256.55396pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/T2001-08.png, id=2526, 1010.77625pt x 612.2875pt>
+File: Images/T2001-08.png Graphic file (type png)
+
+<use Images/T2001-08.png>
+Package pdftex.def Info: Images/T2001-08.png used on input line 856.
+(pdftex.def)             Requested size: 404.30333pt x 244.91066pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[235
+
+ <./Images/T1999-01.png>]pdfTeX warning (ext4): destination with the same ident
+ifier (name{table.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.907 \caption
+              {Normalised brokerage and criticality results for all 9/11 ter...
+! Undefined control sequence.
+\@tempf ... \@parboxrestore \normalsize \@fs@capt 
+                                                  {\@nameuse {fnum@#1}}{\ign...
+l.907 ...rorists across all observed time periods}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[236pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.202 \include{06BlockFormation}
+                                 <./Images/T2000-12.png> <./Images/T2001-05.png
+>]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[237pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.202 \include{06BlockFormation}
+                                 <./Images/T2001-08.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[238]
+\openout2 = `Part3.aux'.
+
+ (./Part3.tex [239
+
+
+
+] [240])
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[241]
+\openout2 = `07ControlInHypergraphs.aux'.
+
+ (./07ControlInHypergraphs.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[242
+
+
+
+]
+Chapter 7.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [243]
+
+Package natbib Warning: Citation `Freeman1977' on page 244 undefined on input l
+ine 17.
+
+
+Package natbib Warning: Citation `Bonacich1972' on page 244 undefined on input 
+line 17.
+
+
+Package natbib Warning: Citation `Jackson2008' on page 244 undefined on input l
+ine 17.
+
+
+Package natbib Warning: Citation `BrinPage1998' on page 244 undefined on input 
+line 17.
+
+
+Package natbib Warning: Citation `Khanna2015' on page 244 undefined on input li
+ne 17.
+
+
+Package natbib Warning: Citation `ElKhatib2015' on page 244 undefined on input 
+line 17.
+
+
+Package natbib Warning: Citation `BrinkGilles1996' on page 244 undefined on inp
+ut line 19.
+
+
+Package natbib Warning: Citation `BrinkGilles2000' on page 244 undefined on inp
+ut line 19.
+
+
+Package natbib Warning: Citation `BormBrink2002' on page 244 undefined on input
+ line 19.
+
+
+Package natbib Warning: Citation `Corominas-MurtraThurner2014' on page 244 unde
+fined on input line 19.
+
+
+Package natbib Warning: Citation `Colizza2006' on page 244 undefined on input l
+ine 19.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[244]
+Underfull \vbox (badness 1803) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[245] <Images/hypergraph.png, id=2598, 1278.7775pt x 781.92125pt>
+File: Images/hypergraph.png Graphic file (type png)
+
+<use Images/hypergraph.png>
+Package pdftex.def Info: Images/hypergraph.png used on input line 78.
+(pdftex.def)             Requested size: 358.05525pt x 218.93645pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[246]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[247pdfTeX warning (ext4): destination with the same identifier (name{figure.7.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.110 
+       <./Images/hypergraph.png>]
+Overfull \hbox (8.3087pt too wide) in paragraph at lines 128--130
+\T1/cmr/m/n/10.95 (-20) For hy-per-graphs where $\OMS/cmsy/m/n/10.95 j\OML/cmm/
+m/it/10.95 H\OMS/cmsy/m/n/10.95 j \OT1/cmr/m/n/10.95 (-20) = 2$ \T1/cmr/m/n/10.
+95 (-20) for all $\OML/cmm/m/it/10.95 H \OMS/cmsy/m/n/10.95 2 \OT1/cmr/m/n/10.9
+5 (-20) ^^@$\T1/cmr/m/n/10.95 (-20) , this sim-pli-fies to $[][] \OML/cmm/m/it/
+10.95 ^^N[]\OT1/cmr/m/n/10.95 (-20) (^^@) = [][] \OMS/cmsy/m/n/10.95 j\OML/cmm/
+m/it/10.95 H\OMS/cmsy/m/n/10.95 j \OT1/cmr/m/n/10.95 (-20) ( \OMS/cmsy/m/n/10.9
+5 j\OML/cmm/m/it/10.95 H\OMS/cmsy/m/n/10.95 j ^^@
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[248]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 139.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 139.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 139.
+
+
+Package natbib Warning: Citation `BrinkGilles2000' on page 249 undefined on inp
+ut line 149.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[249]
+
+Package natbib Warning: Citation `Gilles2010' on page 250 undefined on input li
+ne 165.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[250]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[251]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 234.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\sigma' on input line 234.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 234.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[252]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[253]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[254]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[255]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[256]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[257]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[258]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[259]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[260
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 447.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 447.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 447.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [261]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[262]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[263]
+Underfull \vbox (badness 6741) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[264] <Images/RandSim1.jpg, id=2818, 790.89845pt x 931.3669pt>
+File: Images/RandSim1.jpg Graphic file (type jpg)
+
+<use Images/RandSim1.jpg>
+Package pdftex.def Info: Images/RandSim1.jpg used on input line 583.
+(pdftex.def)             Requested size: 395.44826pt x 465.68231pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.585 \caption
+              [Probability distribution of a random node being an elite]{Sim...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.585 ...ts; and the bottom panel has 30 aspects.}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{figure.7.1}) has been already used, duplic
+ate ignored
+<to be read again> 
+                   \relax 
+l.585 ...ts; and the bottom panel has 30 aspects.}
+                                                  
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[265]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[266 <./Images/RandSim1.jpg>]
+\openout2 = `08NYCControl.aux'.
+
+ (./08NYCControl.tex
+Chapter 8.
+
+Package natbib Warning: Citation `JensenMeckling1976' on page 267 undefined on 
+input line 4.
+
+
+Package natbib Warning: Citation `FamaJensen1983' on page 267 undefined on inpu
+t line 4.
+
+
+Package natbib Warning: Citation `RoyBonacich1988' on page 267 undefined on inp
+ut line 6.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [267
+
+
+
+]
+
+Package natbib Warning: Citation `Silber2007' on page 268 undefined on input li
+ne 12.
+
+
+Package natbib Warning: Citation `Langdell1903' on page 268 undefined on input 
+line 14.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[268]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[269]
+
+Package natbib Warning: Citation `Granovetter1985' on page 270 undefined on inp
+ut line 35.
+
+
+Package natbib Warning: Citation `Coleman1966' on page 270 undefined on input l
+ine 35.
+
+
+Package natbib Warning: Citation `Kapferer1969' on page 270 undefined on input 
+line 35.
+
+
+Package natbib Warning: Citation `LaumannGalaskiewiczMarsden1978' on page 270 u
+ndefined on input line 35.
+
+
+Package natbib Warning: Citation `Granovetter1973' on page 270 undefined on inp
+ut line 35.
+
+
+Package natbib Warning: Citation `BallesterZenou2006' on page 270 undefined on 
+input line 35.
+
+
+Package natbib Warning: Citation `Jackson2007' on page 270 undefined on input l
+ine 35.
+
+
+Package natbib Warning: Citation `Padgett1993' on page 270 undefined on input l
+ine 35.
+
+
+Package natbib Warning: Citation `Padgett1994' on page 270 undefined on input l
+ine 35.
+
+
+Package natbib Warning: Citation `Banerjee2013' on page 270 undefined on input 
+line 35.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[270]
+
+Package natbib Warning: Citation `Dooley1969' on page 271 undefined on input li
+ne 37.
+
+
+Package natbib Warning: Citation `Levine1972' on page 271 undefined on input li
+ne 37.
+
+
+Package natbib Warning: Citation `PfefferSalancik1978' on page 271 undefined on
+ input line 37.
+
+
+Package natbib Warning: Citation `DavisYooBaker2003' on page 271 undefined on i
+nput line 37.
+
+
+Package natbib Warning: Citation `BeckmanHaunschildPhillips2004' on page 271 un
+defined on input line 37.
+
+
+Package natbib Warning: Citation `FaccioMcConnellMasulis2006' on page 271 undef
+ined on input line 37.
+
+
+Package natbib Warning: Citation `HwangKim2009' on page 271 undefined on input 
+line 37.
+
+
+Package natbib Warning: Citation `HwangKim2012' on page 271 undefined on input 
+line 37.
+
+
+Package natbib Warning: Citation `StuartYim2010' on page 271 undefined on input
+ line 37.
+
+
+Package natbib Warning: Citation `deLong1991' on page 271 undefined on input li
+ne 37.
+
+
+Package natbib Warning: Citation `Ramirez1995' on page 271 undefined on input l
+ine 37.
+
+
+Package natbib Warning: Citation `Chernow2010' on page 271 undefined on input l
+ine 37.
+
+
+Package natbib Warning: Citation `Mizruchi1990' on page 271 undefined on input 
+line 39.
+
+
+Package natbib Warning: Citation `Mol2001' on page 271 undefined on input line 
+39.
+
+
+Package natbib Warning: Citation `NicholsonAlexanderKiel2004' on page 271 undef
+ined on input line 39.
+
+
+Package natbib Warning: Citation `Boyd1990' on page 271 undefined on input line
+ 39.
+
+
+Package natbib Warning: Citation `SchoormanBazermanAtkin1981' on page 271 undef
+ined on input line 39.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[271]
+
+Package natbib Warning: Citation `FichShivdasani2006' on page 272 undefined on 
+input line 41.
+
+
+Package natbib Warning: Citation `FichWhite2005' on page 272 undefined on input
+ line 41.
+
+
+Underfull \vbox (badness 1789) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[272]
+
+Package natbib Warning: Citation `NYT1912FiveMen' on page 273 undefined on inpu
+t line 54.
+
+
+Package natbib Warning: Citation `NYT1902NorthernSecuritiesCo' on page 273 unde
+fined on input line 54.
+
+
+Package natbib Warning: Citation `PujoCommittee1913' on page 273 undefined on i
+nput line 67.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[273]
+
+Package natbib Warning: Citation `Hu2005' on page 274 undefined on input line 9
+8.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[274]
+
+Package natbib Warning: Citation `SimsTurnerCampbell2016' on page 275 undefined
+ on input line 102.
+
+<Images/Institutions.png, id=2883, 968.61874pt x 937.5025pt>
+File: Images/Institutions.png Graphic file (type png)
+
+<use Images/Institutions.png>
+Package pdftex.def Info: Images/Institutions.png used on input line 106.
+(pdftex.def)             Requested size: 368.07895pt x 356.25465pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[275]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[276pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.123 
+       <./Images/Institutions.png>]
+<Images/guarantryBipartite.png, id=2895, 1027.84pt x 1027.84pt>
+File: Images/guarantryBipartite.png Graphic file (type png)
+
+<use Images/guarantryBipartite.png>
+Package pdftex.def Info: Images/guarantryBipartite.png used on input line 126.
+(pdftex.def)             Requested size: 390.58325pt x 390.58325pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[277pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.135 
+       <./Images/guarantryBipartite.png>]
+
+Package natbib Warning: Citation `NYT1918Stillman' on page 278 undefined on inp
+ut line 140.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[278]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[279]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[280] <Images/Elite.png, id=2932, 1027.84pt x 1027.84pt>
+File: Images/Elite.png Graphic file (type png)
+
+<use Images/Elite.png>
+Package pdftex.def Info: Images/Elite.png used on input line 186.
+(pdftex.def)             Requested size: 390.58325pt x 390.58325pt.
+
+
+Package natbib Warning: Citation `Newman2006' on page 281 undefined on input li
+ne 192.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[281pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.193 
+       <./Images/Elite.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[282]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[283]pdfTeX warning (ext4): destination with the same identifier (name{table.8.
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.283 \caption
+              {Description of variables used for regression analysis}
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[284]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[285]pdfTeX warning (ext4): destination with the same identifier (name{table.8.
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.330 \caption
+              {Correlation matrix of financial data and network centralities.}
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[286] <Images/firm-type2.png, id=2972, 640.3925pt x 536.0025pt>
+File: Images/firm-type2.png Graphic file (type png)
+
+<use Images/firm-type2.png>
+Package pdftex.def Info: Images/firm-type2.png used on input line 344.
+(pdftex.def)             Requested size: 299.20076pt x 250.43268pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.345 \caption
+              {Distribution of firm value per industry}pdfTeX warning (ext4): d
+estination with the same identifier (name{figure.8.1}) has been already used, d
+uplicate ignored
+<to be read again> 
+                   \relax 
+l.345 ...{Distribution of firm value per industry}
+                                                  
+Underfull \vbox (badness 4518) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[287 <./Images/firm-type2.png>]
+Underfull \vbox (badness 1043) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[288]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[289]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[290]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[291]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[292]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[293]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[294]pdfTeX warning (ext4): destination with the same identifier (name{table.8.
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.580 \caption
+              {Summary statistics of critical variables}
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.8.2}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.645 \caption
+              {Results of Profit-Centrality regressions with firm type and l...
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.8.3}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.707 \caption
+              {Results of Profit-Centrality regressions with categorisation ...
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[295
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[296]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[297]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[298]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[299
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[300]
+Underfull \vbox (badness 1242) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[301]
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[302])
+
+Package Fancyhdr Warning: \headheight is too small (12.5pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[303]
+No file 00EntrepreneurshipSSE.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
+(./00EntrepreneurshipSSE.aux (./01Introduction.aux) (./Part1.aux)
+(./02TowardARelationalPerspective.aux)
+(./03GrowthDevelopmentSocioEconomicSpace.aux) (./04Entrepreneurship.aux)
+(./Part2.aux) (./05MiddlemenAsEntrepreneurs.aux) (./06BlockFormation.aux)
+(./Part3.aux) (./07ControlInHypergraphs.aux) (./08NYCControl.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 216.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
+Package rerunfilecheck Info: File `00EntrepreneurshipSSE.out' has not changed.
+(rerunfilecheck)             Checksum: 2E600BD1797BE52273A1BD808793646E;10735.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
+ ) 
+Here is how much of TeX's memory you used:
+ 23790 strings out of 493013
+ 420571 string characters out of 6135682
+ 591549 words of memory out of 5000000
+ 25388 multiletter control sequences out of 15000+600000
+ 44156 words of font info for 249 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,17n,54p,2324b,835s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/euler/eufm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1095.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on 00EntrepreneurshipSSE.pdf (315 pages, 7575717 bytes).
+PDF statistics:
+ 3443 PDF objects out of 3580 (max. 8388607)
+ 3015 compressed objects within 31 object streams
+ 1074 named destinations out of 1200 (max. 500000)
+ 32896 words of extra memory for PDF output out of 35830 (max. 10000000)
+
