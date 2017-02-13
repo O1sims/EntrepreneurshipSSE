@@ -75,16 +75,16 @@ D - B = D_{N \setminus B} = \left\{ (j,h) \in D \mid j,h \in N \setminus B \righ
 \end{equation}
 Therefore, $D - B$ is the \emph{restricted} network that results from removing the node set $B$ and all arcs to and from the nodes in $B$.
 
-\subsection{Critical nodes and sets}
+\subsection{Middlemen and blocks}
 
-Power in social and economic networks tends to rest on individual nodes and sets of nodes that have an ability to broker relationships and control the flows that occur between nodes in a directed network. These nodes and node sets are known as \emph{critical}.
+Power in social and economic networks tends to rest on individual nodes and node sets that have an ability to broker relationships and control the flows that occur between other nodes in a directed network.
 \begin{definition} \label{Block}
 Let $D$ be a directed network on node set $N$ and let $i,j,h \in N$ be distinct nodes.
 \begin{abet}
 
 \item A subset of nodes $B \subset N$ is an $ij$--\textbf{critical set} in $D$ if $B \subset \cup \mathcal{W}_{ij}(D) \setminus \{i,j\}$ and $B \cap W_{ij} \neq \varnothing$ for every $ij$--path $W_{ij} \in \mathcal{W}_{ij}(D)$.
 
-\item Node $h$ is an $ij$--\textbf{critical node} in $D$ if the singleton set $\{ h \}$ is a $ij$--critical set in $D$.
+\item Node $h$ is an $ij$--\textbf{middleman} in $D$ if the singleton set $\{ h \}$ is a $ij$--critical set in $D$.
 
 \item The collection of critical sets in the network $D$ is given as
 \begin{equation}
