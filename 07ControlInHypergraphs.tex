@@ -18,7 +18,7 @@ Section~\ref{Theory:Influence} introduces hypergraphs, networks, and other preli
 
 Of specific interest to this chapter is the work of \citet{BrinkGilles1996, BrinkGilles2000}. The authors develop a measure of node dominance, known as the $\beta$-measure, which leads to an axiomatic generalisation of degree centrality in a directed network. The measure has had specific application to tournaments and games. \citet{BormBrink2002} develop an iterated $\beta$-measure which, much like the eigenvector and PageRank centralities, develops a score based on the dominance of the nodes that it dominates. With respect to hypergraphs, \citet{Corominas-MurtraThurner2014} develop a mechanism in which to identify the weak core and the structure of important nodes within a multidimensional network. Nodes that exist within a $k$-core and within multiple dimensions of the network are termed as elites: these elites will exist within a so-called \emph{rich club} \citep{Colizza2006}.
 
-We construct a number of measures that compute the control of individual nodes and affiliations. Although the measures developed are general they are created to have particular application to interlocking and overlapping directorates. To do this we first introduce some preliminary concepts, such as hypergraphs and hypergraph projections. From this we can investigate degree-based centrality measures, and extend these to incorporate the influence of individuals and affiliations. This provides the structure for this section.
+We construct a number of measures that compute the control of individual nodes and affiliations. Although the measures developed are general they are created to have particular application to interlocking and overlapping directorates, which is investigated in Chapter~\ref{ch:ControlInNYC}. To do this we first introduce some preliminary concepts, such as hypergraphs and hypergraph projections. From this we can investigate degree-based centrality measures, and extend these to incorporate the influence of individuals and affiliations.
 
 \subsection{Preliminaries}
 
@@ -32,7 +32,7 @@ A hypergraph is a node set endowed with a set of affiliations. Formally, a \emph
 \end{equation}
 and $| \Gamma | = h$ where $| \Gamma |$ denotes the number of elements in the finite set $\Gamma$.
 
-A hypergraph thus represents an affiliation situation in which individuals, represented as nodes, are organised into affiliations, represented by hyperlinks\footnote{An alternative way to investigate hypergraph environments is through the use of a bipartite network, a concept we initially defined in Definition~\ref{def:bipartiteNetworks} when formalising interaction infrastructures in the socio-economic space.}. Usually we will use the shorthand notation $\Gamma$ as the hypergraph or affiliation situation where the node set $N$ is unambiguous.
+A hypergraph therefore represents an affiliation situation in which individuals, represented as nodes, are organised into affiliations, represented by hyperlinks\footnote{An alternative way to investigate hypergraph environments is through the use of a bipartite network, a concept we initially defined in Definition~\ref{def:bipartiteNetworks} when formalising interaction infrastructures in the socio-economic space.}. We typically use the shorthand notation $\Gamma$ as the hypergraph or affiliation situation where the node set $N$ is unambiguous.
 
 We can formally define an ``affiliation situation'' as the class of all hypergraphs, $\mathbb{H}$, as
 \begin{equation}
@@ -47,7 +47,7 @@ Let $\Gamma \subset 2^N$ be some hypergraph. Then the \emph{affiliation set} of 
 \end{equation}
 Thus, the affiliation set of a node is simply the collection of affiliations that it is a member of. This naturally leads to the identification of all nodes or individuals that a node encounters in its affiliations. The \emph{neighbourhood} of a node $i \in N$ is defined by
 \begin{equation}
-\overline{\Gamma}_i = \cup \Gamma_i \setminus \{ i \}
+\overline{\Gamma}_i = \cup \Gamma_i \setminus \{ i \}.
 \end{equation}
 The neighbourhood of a node is the set of nodes that are members of the affiliations that the node is involved with.
 
@@ -65,13 +65,13 @@ $\mathcal{E}_{H}$ is the largest set of overlapping affiliations containing $H$.
 
 \paragraph{Weighted hypergraph.}
 
-A hypergraph structure can be generalised by adding a weight to each affiliation; the result of which is a \emph{weighted hypergraph}, denoted by $\Gamma'$, in which the weight of some $H \in \Gamma$ is given by some real number which is denoted by $\nu_{H} \in \mathbb{R}$. A weighted hypergraph is therefore defined by the triple $\Gamma' = (N, \Gamma, \mathbf{v})$ where $N$ and $\Gamma$ are the set of nodes and affiliations respectively, as defined above, and $\mathbf{v} = (\nu_{1}, \ldots , \nu_{h})$ is a vector of weights that are attached to each affiliation.
+A hypergraph structure can be generalised by adding a weight to each affiliation; the result of which is a \emph{weighted hypergraph}, denoted by $\Gamma'$, in which the weight of some $H \in \Gamma$ is given by some real number which is denoted by $\nu_{H} \in \mathbb{R}$. A weighted hypergraph is therefore defined by the triple $\Gamma' = (N, \Gamma, \mathbf{v})$, where $N$ and $\Gamma$ are the set of nodes and affiliations respectively, and $\mathbf{v} = (\nu_{1}, \ldots , \nu_{h})$ is a vector of weights that are associated with each affiliation.
 
 Much like above, we can define a `weighted affiliation situation' as:
 \begin{equation*}
 \mathbb{L}^N = \{ \Gamma' \mid \Gamma' \subset 2^N \times \mathbf{v} \mbox{ is a weighted affiliation situation on } N \} ,
 \end{equation*}
-The weight of an affiliation can refer to the intensity of the relationship between its members, such that a larger weight denotes a greater intensity. Within our context, however, the weight of the affiliation specifically denotes the ``economic value'' of the affiliation. More specifically, as discussed in the application below, the weight of a firm refers to the value of the firms' total assets.
+The weight of an affiliation can refer to the intensity of the relationship between its members, such that a larger weight denotes a greater intensity. Within the context provded in Chapter~\ref{ch:ControlInNYC}, the weight of the affiliation denotes the `economic value' of the affiliation. More specifically, as discussed in the application, the weight of a firm refers to the value of the firms' total assets.
 
 \begin{figure}[t]
 \begin{center}
@@ -87,7 +87,7 @@ A hypergraph can be projected into two networks: the first is a \emph{node proje
 
 \paragraph{Node projection.}
 
-A hypergraph can be projected on the node set $N$. A node projection of the hypergraph $\Gamma$ is denoted by $g_N$, which refers to the set of relationships $g_N = \{ij \, \mid \, j \in \overline{\Gamma}_{i} \mbox{ and } i \neq j \}$, where $ij$ is an \emph{undirected link} between nodes $i$ and $j$, such that $ij = ji$, therefore if $ij \in g_{N}$ then $ji \in g_{N}$. The node network from the hypergraph in Figure~\ref{hypergraph} (a) can be seen in Figure~\ref{hypergraph} (b).
+A hypergraph can be projected on the node set $N$. A node projection of the hypergraph $\Gamma$ is denoted by $g_N$, which refers to the set of relationships $g_N = \{ij \, \mid \, j \in \overline{\Gamma}_{i} \mbox{ and } i \neq j \}$, where $ij$ is an \emph{undirected link} between nodes $i$ and $j$, such that $ij = ji$, therefore if $ij \in g_{N}$ then $ji \in g_{N}$. The node projection from the hypergraph in Figure~\ref{hypergraph} (a) can be seen in Figure~\ref{hypergraph} (b).
 
 \paragraph{Affiliation projection.}
 
@@ -128,7 +128,7 @@ For general hypergraphs the sum of the standard degree across all nodes is compu
 \end{equation}
 For hypergraphs where $| H | = 2$ for all $H \in \Gamma$, this simplifies to $\sum_{i \in N} \delta_i (\Gamma ) = \sum_{H \in \Gamma} | H | \, ( \, | H | - 1) = 2 \, | \Gamma |$. These are networks.
 
-If $\Gamma$ is projected as a node network, $g_N$, the standard degree measure simplifies to the standard degree concept defined and used in network analysis given by
+In the node projection of $\Gamma$, given by $g_N$, the standard degree measure simplifies to the standard degree concept defined and used in network analysis given by
 \begin{equation}
 \delta_i (\Gamma ) = d_i (g_N ) = | \, \{ j \in N \mid \, j  \in \Gamma_{i} \mbox{ where } j \neq i \}  \, |.
 \end{equation}
@@ -244,6 +244,9 @@ Let $\Gamma$ be a hypergraph. If $| H | = 2$ for all $H \in \Gamma$, the $\sigma
 \end{equation}
 meaning that $\sigma_{i}(G_{\Gamma}) = \tfrac{1}{2} d_{i} (G_{\Gamma})$ in the affiliation projection.
 \end{proposition}
+\begin{proof}
+For clarity, consider the hypergraph $\Gamma$ where $|H| = 2$ for all $H \in \Gamma$ shown in Figure~\ref{fig:}. In this special case, each $H \in \Gamma$ represents a single undirected pairwise relation between $i,j \in H$. Therefore, each affiliaton represents a degree for each member of the affiliation.
+\end{proof}
 Due to Proposition~\ref{prop:SG-degree} the $\sigma$-score is to be viewed as a degree-based measure. In fact, in comparison with the standard degree measure, it is an alternative generalisation of the degree concept used in network analysis to the realm of hypergraphs or affiliation situations. Further still, we will show that the \emph{weighted $\sigma$-score} is a further generalisation of the generalised $\beta$-measure.
 
 The normalisation of the $\sigma$-score on the node set $N$ of general hypergraphs is different from the normalisation of the degree measure and the $\beta$-measure. This normalisation is given by
@@ -259,7 +262,7 @@ Consider the hypergraph, $\Gamma $, on node set $N = \{ 1, 2, 3, 4, 5\}$ shown i
 % Add the standard beta-score
 \end{example}
 
-The substantial differences mean that both measures concern different traits of node connectivity that influence the importance of a node. Specifically, the $\sigma$-score is fundamentally tied to the quantity and context of affiliations that a node is embedded, and is thus more attuned to the affiliations of the hypergraph. On the other hand the standard degree and $\beta$-measures is only concerned with the resulting network structure from the existence of affiliations and each nodes' membership to these affiliations \footnote{We highlight a restriction of the $\sigma$-score by noting that, unlike the standard degree measure, it cannot be used with respect to general projections of a hypergraph to a node network. Indeed, whereas the standard degree measure has direct application to a node network, this is only true with the $\sigma$-score where $| H | = 2$ for all $H \in \Gamma$.}.
+The differences mean that both measures concern different traits of node connectivity that influence the importance of a node. Specifically, the $\sigma$-score is fundamentally tied to the quantity and context of affiliations that a node is embedded, and is thus more attuned to the affiliations of the hypergraph. On the other hand the standard degree and $\beta$-measures is only concerned with the resulting network structure from the existence of affiliations and each nodes' membership to these affiliations \footnote{We highlight a restriction of the $\sigma$-score by noting that, unlike the standard degree measure, it cannot be used with respect to general node projections of a hypergraph. Indeed, whereas the standard degree measure has direct application to a network, this is only true with the $\sigma$-score where $| H | = 2$ for all $H \in \Gamma$.}.
 
 \paragraph{Weighted $\sigma$-score.}
 
@@ -276,9 +279,9 @@ Let the hypergraph on node set $N = \{ 1, 2, 3, 4, 5\}$ shown in Figure~\ref{hyp
 \end{example}
 Example~\ref{weightedSG} shows that the weight of an affiliation can have an impact on the centrality of a node. Specifically node $1$ now becomes relatively less important than both nodes $2$ and $3$, and there is a differential that emerges between nodes $2$ and $3$.
 
-Where the value of an affiliation may matter, as in directorate networks, the initial $\sigma$-score bias the centrality of nodes. Specifically, nodes that are members of an affiliation with a small population (such as in the case with node $1$) may have a large centrality regardless of the value of the affiliation that they are members of. Further biases can emerge in the other direction whereby nodes that are members of affiliations with a large population could have a downward bias on their centrality.
+We note that the initial $\sigma$-score does not consider the weight of affiliations. In some instances, such as directorate networks for example, the weight of an affiliation can be used to represent the value of a firm, which may serve as an important indicator regarding the power and centrality of individual directors. Allowing for the inclusion of weight on affiliations provides context to networked enviornments where the $\sigma$-score can be applied.
 
-\medskip \noindent To this point the $\sigma$-score has been applied to nodes only. This is extended to affiliations such that the $\sigma$-score of an affiliation within a weighted hypergraph is given by
+\medskip \noindent We extend the application of the $\sigma$-score to affiliations. The $\sigma$-score of an affiliation within a weighted hypergraph is given by
 \begin{equation}
 \sigma_{H}(\Gamma') = \left( \sum_{K \in \mathcal{E}_{H}} \nu_{K} \cdot \frac{| H \cap K |}{| K |} \right) + \nu_{H},
 \end{equation}
@@ -361,58 +364,58 @@ Aspects can overlap with respect to their node set. The degree in which a pair o
 \begin{definition}
 The \textbf{distance} between a pair of aspects, $A$ and $A'$, is given by:
 \begin{equation}
-\mbox{dist}(A, A',\Gamma_{\mathcal{A}}) = 1 - \frac{| N(A) \cap N(A') |}{| N(A) |} ~ ,
+\mbox{dist}(A, A',\Gamma_{\mathcal{A}}) = 1 - \frac{| N(A) \cap N(A') |}{| N(A) \cup N(A') |} ~ ,
 \end{equation}
 where $\mbox{dist}(A, A',\Gamma_{\mathcal{A}}) \in [0,1]$.
 \end{definition}
 
-If $N(A) \subseteq N(A')$, then $\mbox{dist}(A, A', \Gamma_{\mathcal{A}}) = 0$; therefore, the more overlapping a pair of aspects then the closer to $0$ the distance between the aspects will be. Note, $\mbox{dist}(A, A',\Gamma_{\mathcal{A}}) = \mbox{dist}(A, A',\Gamma_{\mathcal{A}}) \iff | N(A) | = | N(A') |$.
+If $N(A) = N(A')$, then $\mbox{dist}(A, A', \Gamma_{\mathcal{A}}) = 0$; therefore, the more overlapping a pair of aspects then the closer to $0$ the distance between the aspects will be. Note, that $\mbox{dist}(A, A',\Gamma_{\mathcal{A}}) = \mbox{dist}(A', A,\Gamma_{\mathcal{A}})$.
 
 The overlap of aspects provides an indicator for how many bridge relations are contained between the aspects. As $\mbox{dist}(A, A',\Gamma_{\mathcal{A}}) \rightarrow 1$ then fewer bridge relations exist from aspect $A$ to aspect $A'$, meaning that if $\mbox{dist}(A, A',\Gamma_{\mathcal{A}}) = 1$ no bridges exist. If there are only a few nodes that intersect between aspects there must exist more power in those nodes to bridge relations between aspects. Conversely, if there are relatively many nodes in the intersection between the aspects, then there will be limited scope for brokerage between the aspects. Power to broker relations and information between aspects is centralised in the intersection between aspects.
 
 \begin{example} \label{ex:dist}
-Let the hypergraph on node set $N = \{1,2,3,4,5\}$ from Figure~\ref{hypergraph}(a) be an aspectual hypergraph $\Gamma_{\mathcal{A}}$. This hypergraph has an aspect set given by $\mathcal{A} = \{A_{1}, A_{2} \}$, where $A_{1} = \{A,B\}$ and $A_{2} = \{C\}$. Given this we calculate the asymmetrical distances to be $\mbox{dist}(A_{1}, A_{2}, \Gamma_{\mathcal{A}}) = \frac{1}{4}$ and $\mbox{dist}(A_{2}, A_{1}, \Gamma_{\mathcal{A}}) = \frac{1}{2}$. Node $4$ is the single broker between the two aspects.
+Let the hypergraph on node set $N = \{1,2,3,4,5\}$ from Figure~\ref{hypergraph}(a) be an aspectual hypergraph $\Gamma_{\mathcal{A}}$. This hypergraph has an aspect set given by $\mathcal{A} = \{A_{1}, A_{2} \}$, where $A_{1} = \{A,B\}$ and $A_{2} = \{C\}$. Given this we calculate the distance to be $\mbox{dist}(A_{1}, A_{2}, \Gamma_{\mathcal{A}}) = \mbox{dist}(A_{2}, A_{1}, \Gamma_{\mathcal{A}}) = \frac{1}{5}$. Node $4$ owns the single bridge relation between the two aspects.
 \end{example}
 
-The notion of aspectual bridging can be complemented with the `correlation' between aspects. Indeed, although power is centralised within the intersection of aspects---the bridging relations---they will be more valuable if the aspects are highly correlated with, and therefore complimenting of, each other.
+The notion of aspectual bridging can be complemented with the notions of the middleman and block discussed in Chapter~\ref{ch:criticalnodes} and Chapter~\ref{ch:blocks}. Indeed, power is centralised in bridge relations which are formed and maintained by middlemen.
 
-\subsubsection*{Aspectual correlation}
-
-Aspects can be alike such that fluctuations in their structure and value can be correlated with each other. The relationship to which aspects are correlated should therefore be considered in the context that they are analysed. Within this chapter we consider the correlation between aspects to be a function of how the value of an aspect and its affiliations change over time.
-
-We let the value of some aspect, $A \in \mathcal{A}$, in some time period $t \in \{1,\ldots,T\}$ be given by
-\begin{equation}
-\mu(A_{t}) = \sum_{H \in A} \nu_{H}(\Gamma'_{\mathcal{A}} ) .
-\end{equation}
-The likeness between a pair of assets is computed in the conventional fashion through the calculation of the standard deviation and covariance of the values of each pair of aspects. Specifically, let the standard deviation of some aspect, $A$, be calculated as
-\begin{equation}
-\lambda(A) = \sqrt{\frac{\sum_{t=1}^{T} \left[ \mu(A_{t}) - \overline{\mu}(A) \right]^{2}}{T}} ~ ,
-\end{equation}
-where
-\begin{equation}
-\overline{\mu}(A) = \frac{\sum_{t=1}^{T} \mu(A_{t})}{T} ~ ,
-\end{equation}
-and $T > 0$ is the number of time periods. From this, the covariance of two aspects, $A,A' \in \mathcal{A}$, is calculated by:
-\begin{equation}
-Cov(A,A') = \frac{\sum_{t=1}^{T} \left[ \mu(A_{t}) - \overline{\mu}(A) \right] \cdot \left[ \mu(A'_{t}) - \overline{\mu}(A') \right]}{T} ~ .
-\end{equation}
-Thus, the \emph{aspectual correlation} between the two aspects is given as:
-\begin{equation}
-r(A,A',\Gamma'_{\mathcal{A}}) = \abs{ ~ \frac{Cov(A,A')}{\lambda(A) \cdot \lambda(A')} ~ } ~ ,
-\end{equation}
-such that $r(A,A',\Gamma'_{\mathcal{A}}) \in [0,1]$, since the absolute value of the correlation co-efficient is used. As $r(A,A',\Gamma'_{\mathcal{A}}) \rightarrow 1$ the relationship between aspects increases; a change in the value of one aspect is reflected in a change in the value of another. The absolute value of the correlation is used because, regardless of whether the relationship is positive or negative the relationship can be used to assess the connectivity of the aspects.
-
-The relationship between a pair of aspects is therefore informed by the variance and covariance of the pairs values. This is a time-dependent measure, meaning that multiple time periods are required to provide a meaningful calculation. The calculation suggests that only the changes in the values over time are considered when measuring the relationship between aspects over time.
-
-\medskip \noindent The importance of bridge relations between a pair of aspects is given by the product of the distance and correlation between them. Specifically, the importance of a bridge relation is formally given by:
-\begin{equation}
-\Lambda(A,A',\Gamma'_{\mathcal{A}}) = \mbox{dist}(A,A',\Gamma'_{\mathcal{A}}) \times r(A,A',\Gamma'_{\mathcal{A}}) ~ ,
-\end{equation}
-where $\Lambda(A,A',\Gamma'_{\mathcal{A}}) \in [0,1]$.
-
-The power of the bridge relation is a scalar that corresponds to the benefit of operating within multiple aspects. The importance of bridge relations is therefore a positive function of the distance between the aspects that the relation is bridging and the correlation between those aspects.
-
-If, for example, the distance between aspects increases with a given correlation, then the importance of bridge relations between the aspects will also increase. Conversely, if the correlation between aspects increases with a given distance, then the importance of the bridge relation increases.
+%\subsubsection*{Aspectual correlation}
+%
+%Aspects can be alike such that fluctuations in their structure and value can be correlated with each other. The relationship to which aspects are correlated should therefore be considered in the context that they are analysed. Within this chapter we consider the correlation between aspects to be a function of how the value of an aspect and its affiliations change over time.
+%
+%We let the value of some aspect, $A \in \mathcal{A}$, in some time period $t \in \{1,\ldots,T\}$ be given by
+%\begin{equation}
+%\mu(A_{t}) = \sum_{H \in A} \nu_{H}(\Gamma'_{\mathcal{A}} ) .
+%\end{equation}
+%The likeness between a pair of assets is computed in the conventional fashion through the calculation of the standard deviation and covariance of the values of each pair of aspects. Specifically, let the standard deviation of some aspect, $A$, be calculated as
+%\begin{equation}
+%\lambda(A) = \sqrt{\frac{\sum_{t=1}^{T} \left[ \mu(A_{t}) - \overline{\mu}(A) \right]^{2}}{T}} ~ ,
+%\end{equation}
+%where
+%\begin{equation}
+%\overline{\mu}(A) = \frac{\sum_{t=1}^{T} \mu(A_{t})}{T} ~ ,
+%\end{equation}
+%and $T > 0$ is the number of time periods. From this, the covariance of two aspects, $A,A' \in \mathcal{A}$, is calculated by:
+%\begin{equation}
+%Cov(A,A') = \frac{\sum_{t=1}^{T} \left[ \mu(A_{t}) - \overline{\mu}(A) \right] \cdot \left[ \mu(A'_{t}) - \overline{\mu}(A') \right]}{T} ~ .
+%\end{equation}
+%Thus, the \emph{aspectual correlation} between the two aspects is given as:
+%\begin{equation}
+%r(A,A',\Gamma'_{\mathcal{A}}) = \abs{ ~ \frac{Cov(A,A')}{\lambda(A) \cdot \lambda(A')} ~ } ~ ,
+%\end{equation}
+%such that $r(A,A',\Gamma'_{\mathcal{A}}) \in [0,1]$, since the absolute value of the correlation co-efficient is used. As $r(A,A',\Gamma'_{\mathcal{A}}) \rightarrow 1$ the relationship between aspects increases; a change in the value of one aspect is reflected in a change in the value of another. The absolute value of the correlation is used because, regardless of whether the relationship is positive or negative the relationship can be used to assess the connectivity of the aspects.
+%
+%The relationship between a pair of aspects is therefore informed by the variance and covariance of the pairs values. This is a time-dependent measure, meaning that multiple time periods are required to provide a meaningful calculation. The calculation suggests that only the changes in the values over time are considered when measuring the relationship between aspects over time.
+%
+%\medskip \noindent The importance of bridge relations between a pair of aspects is given by the product of the distance and correlation between them. Specifically, the importance of a bridge relation is formally given by:
+%\begin{equation}
+%\Lambda(A,A',\Gamma'_{\mathcal{A}}) = \mbox{dist}(A,A',\Gamma'_{\mathcal{A}}) \times r(A,A',\Gamma'_{\mathcal{A}}) ~ ,
+%\end{equation}
+%where $\Lambda(A,A',\Gamma'_{\mathcal{A}}) \in [0,1]$.
+%
+%The power of the bridge relation is a scalar that corresponds to the benefit of operating within multiple aspects. The importance of bridge relations is therefore a positive function of the distance between the aspects that the relation is bridging and the correlation between those aspects.
+%
+%If, for example, the distance between aspects increases with a given correlation, then the importance of bridge relations between the aspects will also increase. Conversely, if the correlation between aspects increases with a given distance, then the importance of the bridge relation increases.
 
 \subsection{Elites and elite structures}
 
@@ -447,7 +450,7 @@ The elite structure is important with respect to directorate hypergraphs for two
 \section{Axiomatisation of the generalised $\beta$-measure}
 \label{BetaAxiomatisation}
 
-The generalised $\beta$-measure can be characterised through the use of four axioms. We present these axioms on an arbitrary relational power measure $f : \mathbb{H}^{N} \rightarrow \mathbb{R}^{N}$, where any hypergraph structure, $\Gamma$, can be drawn from $\mathbb{H}^{N}$, that uniquely determine the generalised $\beta$-measure. These axioms are as follows.
+The generalised $\beta$-measure can be characterised through the use of four axioms. We present these axioms on an arbitrary relational power measure $f : \mathbb{H}^{N} \rightarrow \mathbb{R}^{N}$, where any hypergraph structure, $\Gamma$, can be drawn from $\mathbb{H}^{N}$, that uniquely determine the generalised $\beta$-measure. These axioms, provided by \cite{BrinkGilles2000}, are as follows.
 
 \begin{axiom}[Weighted dominance normalisation] \label{ax:1}
 For every $\Gamma \in \mathbb{H}^{N}$ it holds that
@@ -570,13 +573,13 @@ When the number of affiliations changes so too will the convergence from lower b
 
 \subsubsection*{Changes in the distribution of aspects}
 
-Empirical networks are not created randomly. Not only are the distribution of links for nodes and affiliations non-random, the distribution of aspects are typically non-random; some aspects may have more affiliations embedded than others.
+Real-world social and economic networks are not created randomly. Not only are the distribution of links for nodes and affiliations non-random, the distribution of aspects are typically non-random; some aspects may have more affiliations than others.
 
-For any given degree, number of affiliations, and number of aspects the probability of becoming an elite is highest when there is an even distribution of aspects across all affiliations. Therefore, for a given density the greatest number of elites occur when there is an even distribution of aspects. Where the distribution is skewed the of probability of becoming an elite falls since there will exist at least one aspect, $\tilde{a}$, such that $\alpha_{\tilde{a}} < \frac{h}{a}$. As this is so, the probability of having a link to an affiliation embedded within the aspect falls meaning that the overall probability of becoming an elite falls.
+For any given degree, number of affiliations, and number of aspects, the probability of becoming an elite is highest when there is an even distribution of aspects across all affiliations. Therefore, for a given density, the greatest number of elites occur when there is an even distribution of aspects. Where the distribution is skewed the probability of becoming an elite falls since there will exist at least one aspect, $\tilde{a}$, where $\alpha_{\tilde{a}} < \frac{h}{a}$. As this is so, the probability of having a link to an affiliation within the aspect falls, meaning that the overall probability of becoming an elite also falls.
 
 \subsubsection*{Simulations}
 
-We provide some simulations on two different types of networks. In each type of network links are distributed in different ways, however in both types of network the aspects are distributed normally across all affiliations. The probability of being an elite is generated with respect to a random graph model with a fixed number of nodes and a fixed number of affiliations. The result of these simulations can be seen in Figure~\ref{RandSim1}.
+We provide some simulations on two different types of networks. In each type links are pdistributed in different ways, however in both types of network the aspects are distributed normally across all affiliations. The probability of being an elite is generated with respect to a random graph model with a fixed number of nodes and a fixed number of affiliations. The result of these simulations can be seen in Figure~\ref{RandSim1}.
 
 \begin{figure}[h!]
 \begin{center}

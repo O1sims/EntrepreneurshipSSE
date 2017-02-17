@@ -5,7 +5,7 @@ In extending the notions discussed in Chapter~\ref{ch:criticalnodes} we investig
 
 \subsection{A motivating example: The Florentine elite in the 15th Century}
 
-To motivate our discussion we return to the well-known network of elite marriages in Florence, Italy circa 1435 \citep{Kent1978,Padgett1993}. Such marriages were the main political instrument to exert control and build trust among the major houses that make up the Florentine elite. It is clear that even though these Florentine houses had other social relations, a marriage indicated a high degree of trust and transparency between the two houses that were party to it.
+To motivate our discussion we return to the network of elite marriages in Florence, Italy circa 1435 \citep{Kent1978,Padgett1993}. Such marriages were the main political instrument to exert control and build trust among the major houses that make up the Florentine elite. It is clear that even though these Florentine houses had other social relations, a marriage indicated a high degree of trust and transparency between the two houses that were party to it.
 
 As above, the collection of marriage relationships between the various medieval Florentine houses as a directed network rather than an undirected network. In the network depicted in Figure~\ref{Flocrit} an arc $ij$---represented by an arrow from node $i$ to node $j$---describes that a male in house $i$ marries a female in house $j$. Such an arrow represents the likely flow of information between the two houses: A female gathered information regarding the house $i$ into which she married and pass it back to the house $j$ from which she originated.
 
@@ -17,23 +17,25 @@ From the directed network representation of these marriage relationships, we can
 \caption{The Florentine marriage network}
 \label{Flocrit}
 \end{figure}
-Historical analysis by \citet{Roover1946, Roover1963}, \citet{Padgett1993}, and \citet{Goldthwaite2009} attribute the success of the Medician faction during this time to how well organised the Medician faction was relative to the Oligarchic faction. \citet{Padgett1993} suggest that it was common for a member of the oligarchic faction to attempt to overthrow the leadership of its faction and filter information shared with other members. These are indications that there existed a power struggle within the Oligarchic faction. It may be reasonable to assume that more middlemen exist in the Oligarchic faction than the Medician faction. Indeed, when considering the directed network we identify that more middlemen exist in the oligarchic faction where power is more distributed. Conversely, in the Medician faction, power is more centralised in the House of Medici itself. Below we look at each faction individually and analyse middleman power in each reduced network.
+Historical analysis by \citet{Roover1946, Roover1963}, \citet{Padgett1993}, and \citet{Goldthwaite2009} attribute the success of the Medician faction during this time to how well organised the faction was relative to the opposing Oligarchic faction. \citet{Padgett1993} suggest that it was common for a member of the oligarchic faction to attempt to overthrow the leadership of its faction and filter information shared with other members. These are indications that there existed a power struggle within the Oligarchic faction. Conversely, in the Medician faction, power is more centralised in the House of Medici itself. It is well accepted that much power was held by the House of Medici, during much of the 15th Century until the Medici were banished from Florence due to inappropriate lending, which lead to war between Italy and France. 
 
-It is well accepted that much power was held by the House of Medici, during much of the 15th Century until the Medicis were banished from Florence due to inappropriate lending, leading to war. There are many reasons for the Medici reign, one of which was that the Medician faction was well organised. There existed a hierarchical organisation that centred around the House of Medici with little power attributable to other member houses of the Medician faction.
+% It may be reasonable to assume that more middlemen and powerful groups exist in the Oligarchic faction than the Medician faction. Indeed, when considering the directed network we identify that more middlemen exist in the Oligarchic faction where power is more distributed. 
 
-This is confirmed in the depicted network: The Medici were positioned at the centre of a star. Although the House of Salviati also has a middleman position, it is clear that the Medici control the Salviati; indeed, the Medici had the ability of separating the Salviati from the rest of the faction.
+Thus, there existed a hierarchical organisation that centred around the House of Medici with little power attributable to other member houses of the faction. This is confirmed in the depicted network: The Medici were positioned at the centre of a star. Although the House of Salviati also has a middleman position, it is clear that the Medici control information flows to the Salviati; indeed, the Medici had the ability of separating the Salviati from the rest of the faction.
 
-The Oligarchic faction were less well-organised. The faction acted more disruptively as power was more distributed throughout the network; this is illustrated by the widespread presence of middlemen in this network. Consequently, it was less centralised with multiple competing houses at various local power centres. In particular, the Houses of Guadagni, Bischeri, Peruzzi, and Castellan all occupy critical nodes in Figure~\ref{Flocrit}. Therefore, up to half of the faction have the potential to control certain channels of communication. Furthermore, the houses of Peruzzi and Strozzi have an incentive to form a coalition to control information flows in the Oligarchic subnetwork.
+The Oligarchic faction were less well-organised. The faction acted more disruptively as power was more distributed throughout the network; this is illustrated by the widespread presence of middlemen in this network. Consequently, it was less centralised with multiple competing houses at various local power centres. In particular, the Houses of Guadagni, Bischeri, Peruzzi, and Castellan all occupy middleman positions, shown in Figure~\ref{Flocrit}. Indeed, up to half of the faction have the potential to control certain channels of communication. Furthermore, the houses of Peruzzi and Strozzi have an incentive to form a coalition to control information flows in the Oligarchic subgraph.
 
-Therefore, there exists more opportunities for power struggles in the oligarchic faction than the Medician faction. This is representative of the time. It is worth noting that a power struggle occurred within the Medician faction later with respect to the \textit{Pazzi Conspiracy}. And this is conducted through the intervention of the Salviati house, which intermediates the Pazzi and Medici houses in the network.
+Therefore, there exists more opportunities for power struggles in the Oligarchic faction than the Medician faction. This is representative of the time. It is worth noting that a power struggle occurred within the Medician faction later with respect to the \textit{Pazzi Conspiracy}. And this is conducted through the intervention of the Salviati house, which intermediates the Pazzi and Medici houses in the network.
+
+The preliminary analysis of the elite Florentine marriages moivates us to provide a set of tools to analyse the power of individuals and groups in arbitrary networked environments. The analysis of middlemen in Chapter~\ref{ch:criticalnodes} went some way to providing such an analysis; this chapter generalises the notion of a middleman and generates a normative measure of power with the use of a game theoretic approach to coalition formation.
 
 \paragraph{Chapter outline.}
 
-In this chapter we introduce analytical concepts that try to measure these features in any arbitrary directed network. These concepts are supported by two analytical methods, one based on identifying contestation of critical node sets and the other founded in a non-cooperative game theoretic analysis that identifies the stable critical structures that emerge in a network. We report that the resulting measures corroborate the historical analysis of the medieval Florentine marriage network presented above.
+In this chapter we introduce analytical concepts that try to measure power in an arbitrary directed network. These concepts are supported by two analytical methods, one based on identifying contestation of critical sets and the other founded in a non-cooperative game theoretic analysis that identifies the stable critical structures that emerge in a network. We report that the resulting measures corroborate the historical analysis of the medieval Florentine marriage network presented above.
 
 \subsection{Relationship to the literature}
 
-The work here broadly applies the notions of critical nodes and node cut sets, originally developed in graph theory, to situations in economics and sociology. In social and economic terms, the graph theoretic notion of a critical node is analogous to that of a \emph{middleman}. There exists much work assessing the importance of critical nodes in economics. We specifically note seminal work developed by \citet{KalaiMiddlemen1978} which was extended by \citet{JacksonWolinsky1996} and further elaborated upon by \citet{GillesChakrabarti2006} with respect to undirected networks. This literature showed that middleman positions are important in networked intermediation and that such critical nodes can extract significant gains from their positions within a cooperative game theoretic framework. Indeed, the insights were analogous to those found by \citet{RubinsteinWolinsky1987}. There also exists much work in sociology regarding critical nodes and power. \citet{Emerson1962} illustrates a theory of power relations by assessing the dependence of each player on the other, and thus the number of alternatives that each player has at their disposal for the achievement of a given task. The notions of power--dependence relations were extended to analyse the power of agents in exchange networks by \citet{CookEmersonGillmoreYamagishi1983}. \citet{GouldFernandez1989} note that there can exist multiple types of broker, which acts as a critical node, and provide quantitative measurements for these nodes primarily based on the notion of betweenness centrality. \citet{Gould1989} builds on these early insights, developing a measure for an agents inter--clique brokerage. More recent research has investigated more dynamics of brokerage \citep{Spiro2013}. Despite the vigorous research from both fields into the interlinked notions of middlemen, brokerage, and critical nodes, he notion of node cut sets still require intuitive application to scenarios in both sociology and economics. One such article that does this is from~\citet{SimsGilles2014}, who extend the notion of critical nodes to that of anti-competitive middlemen. This chapter extends this work by providing an application of cut sets in the form of block formation.
+The work provided here applies the notions of the middleman and critical sets---originally developed in graph theory---to situations in economics and sociology. In social and economic terms, the graph theoretic notion of a critical node is analogous to that of a \emph{middleman}. There exists much work assessing the importance of middlemen in economics. We specifically note seminal work developed by \citet{KalaiMiddlemen1978} which was extended by \citet{JacksonWolinsky1996} and further elaborated upon by \citet{GillesChakrabarti2006} with respect to undirected networks. This literature showed that middleman positions are important in networked intermediation and that such they can extract significant gains from their positions within a cooperative game theoretic framework. Indeed, the insights were analogous to those found by \citet{RubinsteinWolinsky1987}. There also exists much work in sociology regarding middlemen and power. \citet{Emerson1962} illustrates a theory of power relations by assessing the dependence of each player on the other, and thus the number of alternatives that each player has at their disposal for the achievement of a given task. The notions of power--dependence relations were extended to analyse the power of agents in exchange networks by \citet{CookEmersonGillmoreYamagishi1983}. \citet{GouldFernandez1989} note that there can exist multiple types of broker, which acts as a middleman, and provide quantitative measurements for these nodes primarily based on the notion of betweenness centrality. \citet{Gould1989} builds on these early insights, developing a measure for an agents inter--clique brokerage. More recent research has investigated more dynamics of brokerage \citep{Spiro2013}. Despite the vigorous research from both fields into the interlinked notions of middlemen and brokerage, he notion of node cut sets still require intuitive application to scenarios in both sociology and economics. One such article that does this is from~\citet{SimsGilles2014}, who extend the notion of the middleman to that of anti-competitive middlemen. This chapter extends this work by providing an application of cut sets in the form of block formation.
 
 Exploitation and power is closely related to the notion of \emph{competition} in economic systems. Competition has been at the heart of market theory and traditional economics since the formal introduction of Bertrand competition, which claims that if there exists two or more producers for some homogeneous product in a given market then the producers will continually reduce their price levels so that all producers are selling their outputs at the marginal cost of production. The assumption of competitive systems is at the heart of both micro and macroeconomic modelling, however there does not yet exist a broad range of literature regarding competition in networked markets.
 
@@ -75,9 +77,9 @@ D - B = D_{N \setminus B} = \left\{ (j,h) \in D \mid j,h \in N \setminus B \righ
 \end{equation}
 Therefore, $D - B$ is the \emph{restricted} network that results from removing the node set $B$ and all arcs to and from the nodes in $B$.
 
-\subsection{Middlemen and blocks}
+\subsection{Middlemen and critical sets}
 
-Power in social and economic networks tends to rest on individual nodes and node sets that have an ability to broker relationships and control the flows that occur between other nodes in a directed network.
+Power in social and economic networks tend to rest on individuals and groups that have an ability to broker relationships and subsequently control information and economic the flows that occur between others in a network.
 \begin{definition} \label{Block}
 Let $D$ be a directed network on node set $N$ and let $i,j,h \in N$ be distinct nodes.
 \begin{abet}
@@ -90,18 +92,16 @@ Let $D$ be a directed network on node set $N$ and let $i,j,h \in N$ be distinct 
 \begin{equation}
 \mathcal{B}(D) = \left\{ B \subset M_D \mid B \subset N \mbox{ is an $ij$--critical set for some } i,j \in N \, \right\} .
 \end{equation}
-Also, the set of critical nodes in the network $D$ is defined by
+Also, the set of middlemen in the network $D$ is defined by
 \begin{equation}
-\mathcal{M}(D) = \left\{ h \in M_D \mid h \mbox{ is an $ij$--critical node for some } i,j \in N \, \right\} .
+\mathcal{M}(D) = \left\{ h \in M_D \mid h \mbox{ is an $ij$--middleman for some } i,j \in N \, \right\} .
 \end{equation}
 
 \end{abet}
 \end{definition}
-An $ij$--critical node set consists of $ij$--intermediaries that control all flows, communication or intermediation between nodes $i$ and $j$ in network $D$. This implies that these nodes can exercise some form of control in the interaction between the nodes $i$ and $j$.
+An $ij$--critical set consists of $ij$--intermediaries that control all flows, communication or intermediation between nodes $i$ and $j$ in network $D$. This implies that these nodes can exercise some form of control in the interaction between the nodes $i$ and $j$. A middleman is a singleton critical set for some pair of nodes. This implies that such a node exercises complete control over all interaction between these two nodes in the network.
 
-A critical node is a singleton critical set for some pair of nodes. This implies that such a node exercises complete control over all interaction between these two nodes in the network. A critical node is also referred to as a ``middleman'' in the literature.
-
-Definition~\ref{Block} has equal application to undirected as well as directed networks. A critical node set may also contain a middleman or multiple middlemen, but that is not necessary. Also, in an undirected network a critical node set is equivalent to a cut set which removal partitions a network into multiple connected components. In particular, a middleman is a cut node in an undirected network.
+Definition~\ref{Block} has equal application to undirected as well as directed networks. A critical set may also contain a middleman or multiple middlemen, but that is not necessary. Also, in an undirected network a critical set is equivalent to a cut set which removal partitions a network into multiple connected components. In particular, a middleman is a cut node in an undirected network.
 
 \begin{figure}[t]
 \begin{center}
@@ -146,7 +146,7 @@ A number of characteristics can be derived for critical sets in a directed netwo
 \begin{property} \label{prop:blocks}
 Let $D$ be a network on node set $N$ and let $i,j \in N$ with $i \neq j$.
 \begin{itemize}
-\item[(i)] A node $h \in N$ is a $ij$--critical node in $D$ if and only if
+\item[(i)] A node $h \in N$ is a $ij$--middleman in $D$ if and only if
 \[
 h \in \left[ \, \cap \mathcal{W}_{ij} (D) \, \right] \setminus \{i,j\} .
 \]
@@ -157,7 +157,7 @@ h \in \left[ \, \cap \mathcal{W}_{ij} (D) \, \right] \setminus \{i,j\} .
 \\
 If $B \subset N$ is an $ij$--critical set, then it holds that $\mathcal{W}_{ij}(D) \neq \varnothing$ and $\mathcal{W}_{ij}(D - B) = \varnothing$.
 
-\item[(iv)] Let $h \in N$ be an $ij$--critical node and $B \subset N$ such that $h \in B$. Then, $B$ is an $ij$--critical set if and only if $i,j \notin B$.
+\item[(iv)] Let $h \in N$ be an $ij$--middleman and $B \subset N$ such that $h \in B$. Then, $B$ is an $ij$--critical set if and only if $i,j \notin B$.
 \end{itemize}
 \end{property}
 The following theorem addresses the existence of critical sets in a network.
@@ -212,15 +212,23 @@ Contestability of a node in a network refers to replacing a node's brokerage fun
 By extension, we can define similar concepts for arbitrary node sets. This is formalised as follows:
 \begin{definition}
 Let $B \subset N$ be some node set in the directed network $D$. Then the \textbf{coverage} of the node set $B$ in $D$ is given by
-\begin{equation}
-\Gamma_D (B) =\bigcup_{i \in B} \left[ \, ( P_{i} \left( D \right) \setminus B ) \times \left( S_{i} \left( D \right) \setminus B \right) \, \right].
+\begin{equation} \label{eq:coverageSet}
+\Gamma_D (B) =\bigcup_{i \in B} \left\{ \left. \, (h,j) \in ( P_{i} \left( D \right) \setminus B ) \times \left( S_{i} \left( D \right) \setminus B \right) \, \right| \, h \neq j \, \right\}.
 \end{equation}
 The \textbf{brokerage} of the node set $B$ in $D$ is defined as
 \begin{equation}
 \Delta_D (B) = \{ (i,j) \in \Gamma_D (B) \mid \mathcal{W}_{ij} (D-B) = \varnothing \}
 \end{equation}
 \end{definition}
-The coverage of a node set $B \subset N$ consists of pairs of nodes that can be intermediated by the nodes in $B$. The brokerage consists of those pairs in the coverage of $B$ that critically depend on the intermediation provided by $B$-members. The following properties of the coverage and brokerage of node sets are stated without proof.
+The coverage of a node set $B \subset N$ consists of pairs of nodes that can be intermediated by the nodes in $B$. The brokerage consists of those pairs in the coverage of $B$ that critically depend on the intermediation provided by $B$-members. 
+
+We make a note on the similarity between the coverage of a node set, given by Equation~\ref{eq:coverageSet}, and the coverage noted in Equation~\ref{eq:coverage} in Chapter~\ref{ch:criticalnodes}. Specifically, let $i$ exist in some node set $N$, since $i \notin P_{i}(D)$ and $i \notin S_{i}(D)$, then $i$ cannot exist in it's own coverage. Likewise, given the definition of coverage above, the node set is itself not contained within its coverage. Therefore, let there exist some $B \subset N$ such that $B = \{ i \}$; then $\Gamma_{D}(B) \equiv \Gamma_i (D)$. Indeed this must be true since, by definition, $P_{i}(D) \setminus \{i\} = P_{i}(D)$ and $S_{i}(D) \setminus \{i\} = S_{i}(D)$, therefore if $B = \{i\}$ the equation would simplify to 
+\begin{equation}
+\Gamma_D (i) = \left\{ \left. \, (h,j) \in P_{i} \left( D \right) \times S_{i} \left( D \right) \, \right| \, h \neq j \, \right\},
+\end{equation}
+which is equivalent to Equation~\ref{eq:coverage}. As such, the definition of coverage given by Equation~\ref{eq:coverageSet} is a generalisation of coverage given by Equation~\ref{eq:coverage}.
+
+Note the following properties of the coverage and brokerage of node sets.
 \begin{property}
 Let $D$ be some connected network on node set $N$. Then the following properties hold:
 \begin{itemize}
@@ -250,11 +258,11 @@ The distinction between full and partial contestation is that all node pairs in 
 
 Under partial contestation the node set $C$ only can broker the intermediation between a certain number of pairs in $B$'s coverage. The concept of partial contestability allows us to consider the notion of competition in networks in a deeper way. For example, we note that there are networks in which there is \emph{asymmetric contestation} in that node $i$ can contest $j$, but $j$ can only partially contest node $i$.
 \begin{example}
-Consider the network depicted in Figure~\ref{Net1} and discussed in Example \ref{ex:Figure1}. Clearly, node 2 as a critical node (fully) contests node 3, i.e., node 2 can intermediate all connections between node 1 and the nodes in $\{ 5,6,7 \}$ that are also intermediated by node 3. However, node 3 only partially contests node 2, facilitating the connections between node 1 and nodes 5, 6 and 7, but not that between node 1 and node 4.
+Consider the network depicted in Figure~\ref{Net1} and discussed in Example \ref{ex:Figure1}. Clearly, node 2 as a middleman (fully) contests node 3, i.e., node 2 can intermediate all connections between node 1 and the nodes in $\{ 5,6,7 \}$ that are also intermediated by node 3. However, node 3 only partially contests node 2, facilitating the connections between node 1 and nodes 5, 6 and 7, but not that between node 1 and node 4.
 \\
-We remark that although node 2 is a critical node, it is partially contested by node 3, implying it is not strongly uncontested. However, the interaction between nodes 1 and 4 is always intermediated by critical node 2; therefore, node 2 is uncontested.
+We remark that although node 2 is a middleman, it is partially contested by node 3, implying it is not strongly uncontested. However, the interaction between nodes 1 and 4 is always intermediated by node 2; therefore, node 2 is uncontested.
 \\
-In the example depicted in Figure~\ref{Net1}, critical node 6 is strongly uncontested, since any interaction with node 7 requires intermediation by node 6.
+In the example depicted in Figure~\ref{Net1}, middleman 6 is strongly uncontested, since any interaction with node 7 requires intermediation by node 6.
 \end{example}
 Contestability is a topological representation of a form of competition in a network: It refers to the specific connectivity of nodes in the network as opposed to the actual socio-economic function of these nodes, which is the main focus of traditional ``market competition'' discussed in economic market theory. Therefore, node contestability considers neither the activities of each node, nor the values generated by each node in the network. Instead, we take into consideration the ability of nodes to pass some unchanging output or information through a network.
 

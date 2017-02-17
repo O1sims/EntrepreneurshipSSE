@@ -286,9 +286,9 @@ Next we examine the relationship between critical nodes and competition or ``con
 Let $D$ be a network on node set $N=\{1, \ldots ,n\}$ and let $i \in M_D$ be some intermediary node in $D$.
 \begin{abet}
 \item The \textbf{coverage} of intermediary $i$ in the network $D$ is defined as all node pairs $(h,j)$ with $h \neq j$ that can use node $i$ as an intermediary in their interaction:
-\begin{equation}
+\begin{equation} \label{eq:coverage}
 	\Gamma_i (D) = \left\{ \left. \, (h,j) \in P_i (D) \times S_i (D) \, \right| \, h \neq j \, \right\}
-\end{equation}
+\end{equation} \label{eq:extendedCoverage}
 and the \textbf{extended coverage} of node $i$ in network $D$ is defined by
 \begin{equation}
 	\overline{\Gamma}_i (D) = \overline{P}_i (D) \times \overline{S}_i (D)
