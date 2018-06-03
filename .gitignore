@@ -1,3 +1,14 @@
+# Apple
 .DS_Store
+
+# R
 .Rhistory
+
+# LaTex files
 .texpadtmp/
+*.aux
+*.idx
+*.lof
+*.log
+*.out
+*.toc
